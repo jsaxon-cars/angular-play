@@ -13,8 +13,10 @@ angular
             $scope.nav_tabs = [
                 {name:'Home', url:"/home"},
                 {name:'Contact', url:"/contact"},
-                {name:'About', url:"/about"}
+                {name:'About', url:"/about"}g
             ];
+            // I couldn't figure out how to do this directly in the HTML...  Didn't seem to know $location.path var on the page
+            // Though it did know the $index inside the repeat.
             $scope.isActive = function (viewLocation) {
                 console.log("Compare "+ viewLocation + " with " + $location.path());
                 return viewLocation === $location.path();

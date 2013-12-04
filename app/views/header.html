@@ -1,0 +1,6 @@
+<div class="header" ng-controller="MainCtrl">
+  <ul class="nav nav-pills pull-right" ng-repeat="tab in nav_tabs | reverse"> 
+    <li ng-class="{true:'active', false:''}[isActive(tab.url)]"><a ng-href="/#{{tab.url}}">{{tab.name}}</a></li>
+  </ul>
+  <h3 class="text-muted">Silly</h3>
+</div>

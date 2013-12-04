@@ -1,7 +1,9 @@
-angular-play
-============
+Playground for Angular Research and Learning
+============================================
 
 This is a repo which started as a Yeoman generator-angular project. 
+
+The purpose is to learn about AngularJS and focus on understanding how to implement the NewCars Quote Path using only RESTful services to communicate the quote path. 
 
 So far it's been tweeked to break out the pieces into DRY and has a global nav element in the controller.
 

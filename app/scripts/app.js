@@ -28,8 +28,7 @@ var myApp = angular.module('sillyApp', [
             .otherwise({
                 redirectTo: '/'
             });
-    });
-myApp
+    })
     .filter('reverse', function() {
         return function(items) {
             return items.slice().reverse();

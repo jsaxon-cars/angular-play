@@ -1,12 +1,13 @@
 
-<div class="box jumbotron animate-show" 
-     ng-controller="SplendidCtrl" 
-     ng-animate="'box'" 
-     ng-show="splendid_count<max_splendid_count">
-  <div class="span3">
-      <span class="lead span5"><img src="images/yeoman.png" alt="I'm Yeoman"></span>
-      <span class="span2"></span>
-      <span><a class="span5 btn btn-success" ng-click="blah()">Splendid!</a></span>
-  </div>
-  <p class="span2">{{shmoopy}} [{{splendid_count}}]</p>
+<div ng-controller="SplendidCtrl">
+    <div class="jumbotron box animate-show" 
+         ng-animate="'box'" 
+         ng-show="splendid_count<max_splendid_count">
+      <div class="span3">
+          <span class="lead span5"><img src="images/yeoman.png" alt="I'm Yeoman"></span>
+          <span class="span2"></span>
+          <span><a class="span5 btn btn-success" ng-click="blah()">Splendid!</a></span>
+      </div>
+      <p class="span2">{{shmoopy}} [{{splendid_count}}]</p>
+    </div>
 </div>

@@ -37,10 +37,7 @@ body {
 }
 
 /* Splendid FADE OUT? */
-.box {
-}
-
-.box-show-setup, .box-hide-setup {
+.animate-show {
   -webkit-transition:all linear 1.5s;
   -moz-transition:all linear 1.5s;
   -ms-transition:all linear 1.5s;
@@ -48,15 +45,10 @@ body {
   transition:all linear 1.5s;
 }
 
-.animate-show.ng-hide-add, .animate-show.ng-hide-remove {
-  display:block!important;
-}
+.animate-show.ng-hide-add, .animate-show.ng-hide-remove { display:block!important; }
 
-.box-show-setup { opacity:0; }
-.box-show-setup.box-show-start { opacity:1; }
-
-.box-hide-setup { opacity:1; }
-.box-hide-setup.box-hide-start { opacity:0; }
+.animate-show.ng-hide { opacity:0; }
+.animate-show.ng-hide { opacity:1; }
 
 /* Splendid FADE OUT END */
 

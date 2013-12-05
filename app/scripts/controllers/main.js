@@ -24,7 +24,7 @@ angular
         })
         .controller('SplendidCtrl', function ($scope) {
             $scope.splendid_count = 0;
-            $scope.max_splendid_count = 5;
+            $scope.max_splendid_count = 2;
             $scope.shmoopy = "Why when I change a tab does it go back to zero?";
             $scope.blah = function () {
                 $scope.shmoopy = $scope.shmoopy.split("").reverse().join("");

@@ -4,7 +4,8 @@ var myApp = angular.module('sillyApp', [
     'ngCookies',
     'ngResource',
     'ngSanitize',
-    'ngRoute'
+    'ngRoute',
+    'ngAnimate'
 ])
     .config(function ($routeProvider) {
         $routeProvider
@@ -27,12 +28,12 @@ var myApp = angular.module('sillyApp', [
             .otherwise({
                 redirectTo: '/'
             });
-    })
+    });
+myApp
     .filter('reverse', function() {
         return function(items) {
             return items.slice().reverse();
         };
-    });
+    })
 ;
-
 

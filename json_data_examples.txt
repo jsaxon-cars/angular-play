@@ -1,0 +1,3427 @@
+/* Landing JSON */
+{
+  "makes_models": {
+      "acura": {
+          "make_name": "Acura",
+          "make_name_urlified": "acura",
+          "models": [{
+              "model_id": "2205",
+              "model_name": "ILX",
+              "model_name_urlified": "ilx",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2206",
+              "model_name": "ILX Hybrid",
+              "model_name_urlified": "ilx-hybrid",
+              "years": ["2013"]
+          }, {
+              "model_id": "2",
+              "model_name": "MDX",
+              "model_name_urlified": "mdx",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1868",
+              "model_name": "RDX",
+              "model_name_urlified": "rdx",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2251",
+              "model_name": "RLX",
+              "model_name_urlified": "rlx",
+              "years": ["2014"]
+          }, {
+              "model_id": "255",
+              "model_name": "TL",
+              "model_name_urlified": "tl",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "981",
+              "model_name": "TSX",
+              "model_name_urlified": "tsx",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2103",
+              "model_name": "ZDX",
+              "model_name_urlified": "zdx",
+              "years": ["2013"]
+          }]
+      },
+      "audi": {
+          "make_name": "Audi",
+          "make_name_urlified": "audi",
+          "models": [{
+              "model_id": "1766",
+              "model_name": "A3",
+              "model_name_urlified": "a3",
+              "years": ["2013"]
+          }, {
+              "model_id": "1130",
+              "model_name": "A4",
+              "model_name_urlified": "a4",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1960",
+              "model_name": "A5",
+              "model_name_urlified": "a5",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "572",
+              "model_name": "A6",
+              "model_name_urlified": "a6",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2160",
+              "model_name": "A7",
+              "model_name_urlified": "a7",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "573",
+              "model_name": "A8",
+              "model_name_urlified": "a8",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2196",
+              "model_name": "allroad",
+              "model_name_urlified": "allroad",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2072",
+              "model_name": "Q5",
+              "model_name_urlified": "q5",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2228",
+              "model_name": "Q5 hybrid",
+              "model_name_urlified": "q5-hybrid",
+              "years": ["2013"]
+          }, {
+              "model_id": "1839",
+              "model_name": "Q7",
+              "model_name_urlified": "q7",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2204",
+              "model_name": "RS 5",
+              "model_name_urlified": "rs-5",
+              "years": ["2013"]
+          }, {
+              "model_id": "12",
+              "model_name": "S4",
+              "model_name_urlified": "s4",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1961",
+              "model_name": "S5",
+              "model_name_urlified": "s5",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1879",
+              "model_name": "S6",
+              "model_name_urlified": "s6",
+              "years": ["2013"]
+          }, {
+              "model_id": "2207",
+              "model_name": "S7",
+              "model_name_urlified": "s7",
+              "years": ["2013"]
+          }, {
+              "model_id": "1880",
+              "model_name": "S8",
+              "model_name_urlified": "s8",
+              "years": ["2013"]
+          }, {
+              "model_id": "15",
+              "model_name": "TT",
+              "model_name_urlified": "tt",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2166",
+              "model_name": "TT RS",
+              "model_name_urlified": "tt-rs",
+              "years": ["2013"]
+          }, {
+              "model_id": "2052",
+              "model_name": "TTS",
+              "model_name_urlified": "tts",
+              "years": ["2013"]
+          }]
+      },
+      "bmw": {
+          "make_name": "BMW",
+          "make_name_urlified": "bmw",
+          "models": [{
+              "model_id": "2015",
+              "model_name": "128",
+              "model_name_urlified": "128",
+              "years": ["2013"]
+          }, {
+              "model_id": "2023",
+              "model_name": "135",
+              "model_name_urlified": "135",
+              "years": ["2013"]
+          }, {
+              "model_id": "2245",
+              "model_name": "320",
+              "model_name_urlified": "320",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "600",
+              "model_name": "328",
+              "model_name_urlified": "328",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2272",
+              "model_name": "328 Gran Turismo",
+              "model_name_urlified": "328-gran-turismo",
+              "years": ["2014"]
+          }, {
+              "model_id": "2280",
+              "model_name": "328d",
+              "model_name_urlified": "328d",
+              "years": ["2014"]
+          }, {
+              "model_id": "1924",
+              "model_name": "335",
+              "model_name_urlified": "335",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2281",
+              "model_name": "428",
+              "model_name_urlified": "428",
+              "years": ["2014"]
+          }, {
+              "model_id": "2282",
+              "model_name": "435",
+              "model_name_urlified": "435",
+              "years": ["2014"]
+          }, {
+              "model_id": "1941",
+              "model_name": "528",
+              "model_name_urlified": "528",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1942",
+              "model_name": "535",
+              "model_name_urlified": "535",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2122",
+              "model_name": "535 Gran Turismo",
+              "model_name_urlified": "535-gran-turismo",
+              "years": ["2013"]
+          }, {
+              "model_id": "2279",
+              "model_name": "535d",
+              "model_name_urlified": "535d",
+              "years": ["2014"]
+          }, {
+              "model_id": "1925",
+              "model_name": "550",
+              "model_name_urlified": "550",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2104",
+              "model_name": "550 Gran Turismo",
+              "model_name_urlified": "550-gran-turismo",
+              "years": ["2013"]
+          }, {
+              "model_id": "2181",
+              "model_name": "640",
+              "model_name_urlified": "640",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2192",
+              "model_name": "640 Gran Coupe",
+              "model_name_urlified": "640-gran-coupe",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1027",
+              "model_name": "650",
+              "model_name_urlified": "650",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2211",
+              "model_name": "650 Gran Coupe",
+              "model_name_urlified": "650-gran-coupe",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2112",
+              "model_name": "740",
+              "model_name_urlified": "740",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "609",
+              "model_name": "750",
+              "model_name_urlified": "750",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1898",
+              "model_name": "760",
+              "model_name_urlified": "760",
+              "years": ["2013"]
+          }, {
+              "model_id": "2213",
+              "model_name": "ActiveHybrid 3",
+              "model_name_urlified": "activehybrid-3",
+              "years": ["2013"]
+          }, {
+              "model_id": "2188",
+              "model_name": "ActiveHybrid 5",
+              "model_name_urlified": "activehybrid-5",
+              "years": ["2013"]
+          }, {
+              "model_id": "2214",
+              "model_name": "ActiveHybrid 740",
+              "model_name_urlified": "activehybrid-740",
+              "years": ["2013"]
+          }, {
+              "model_id": "601",
+              "model_name": "M3",
+              "model_name_urlified": "m3",
+              "years": ["2013"]
+          }, {
+              "model_id": "1783",
+              "model_name": "M5",
+              "model_name_urlified": "m5",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1845",
+              "model_name": "M6",
+              "model_name_urlified": "m6",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2252",
+              "model_name": "M6 Gran Coupe",
+              "model_name_urlified": "m6-gran-coupe",
+              "years": ["2014"]
+          }, {
+              "model_id": "2209",
+              "model_name": "X1",
+              "model_name_urlified": "x1",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1015",
+              "model_name": "X3",
+              "model_name_urlified": "x3",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "21",
+              "model_name": "X5",
+              "model_name_urlified": "x5",
+              "years": ["2013"]
+          }, {
+              "model_id": "2091",
+              "model_name": "X5 M",
+              "model_name_urlified": "x5-m",
+              "years": ["2013"]
+          }, {
+              "model_id": "2027",
+              "model_name": "X6",
+              "model_name_urlified": "x6",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2095",
+              "model_name": "X6 M",
+              "model_name_urlified": "x6-m",
+              "years": ["2013"]
+          }, {
+              "model_id": "655",
+              "model_name": "Z4",
+              "model_name_urlified": "z4",
+              "years": ["2013", "2014"]
+          }]
+      },
+      "buick": {
+          "make_name": "Buick",
+          "make_name_urlified": "buick",
+          "models": [{
+              "model_id": "1894",
+              "model_name": "Enclave",
+              "model_name_urlified": "enclave",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2233",
+              "model_name": "Encore",
+              "model_name_urlified": "encore",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1070",
+              "model_name": "LaCrosse",
+              "model_name_urlified": "lacrosse",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "259",
+              "model_name": "Regal",
+              "model_name_urlified": "regal",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2178",
+              "model_name": "Verano",
+              "model_name_urlified": "verano",
+              "years": ["2014", "2013"]
+          }]
+      },
+      "cadillac": {
+          "make_name": "Cadillac",
+          "make_name_urlified": "cadillac",
+          "models": [{
+              "model_id": "2203",
+              "model_name": "ATS",
+              "model_name_urlified": "ats",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "29",
+              "model_name": "CTS",
+              "model_name_urlified": "cts",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1161",
+              "model_name": "CTS-V",
+              "model_name_urlified": "cts-v",
+              "years": ["2013"]
+          }, {
+              "model_id": "575",
+              "model_name": "Escalade",
+              "model_name_urlified": "escalade",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1162",
+              "model_name": "Escalade ESV",
+              "model_name_urlified": "escalade-esv",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "674",
+              "model_name": "Escalade EXT",
+              "model_name_urlified": "escalade-ext",
+              "years": ["2013"]
+          }, {
+              "model_id": "2043",
+              "model_name": "Escalade Hybrid",
+              "model_name_urlified": "escalade-hybrid",
+              "years": ["2013"]
+          }, {
+              "model_id": "986",
+              "model_name": "SRX",
+              "model_name_urlified": "srx",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2197",
+              "model_name": "XTS",
+              "model_name_urlified": "xts",
+              "years": ["2014", "2013"]
+          }]
+      },
+      "chevrolet": {
+          "make_name": "Chevrolet",
+          "make_name_urlified": "chevrolet",
+          "models": [{
+              "model_id": "2202",
+              "model_name": "Avalanche",
+              "model_name_urlified": "avalanche",
+              "years": ["2013"]
+          }, {
+              "model_id": "2060",
+              "model_name": "Camaro",
+              "model_name_urlified": "camaro",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "263",
+              "model_name": "Corvette",
+              "model_name_urlified": "corvette",
+              "years": ["2013"]
+          }, {
+              "model_id": "2260",
+              "model_name": "Corvette Stingray",
+              "model_name_urlified": "corvette-stingray",
+              "years": ["2014"]
+          }, {
+              "model_id": "2123",
+              "model_name": "Cruze",
+              "model_name_urlified": "cruze",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1034",
+              "model_name": "Equinox",
+              "model_name_urlified": "equinox",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2046",
+              "model_name": "Express 1500",
+              "model_name_urlified": "express-1500",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2047",
+              "model_name": "Express 2500",
+              "model_name_urlified": "express-2500",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2048",
+              "model_name": "Express 3500",
+              "model_name_urlified": "express-3500",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "264",
+              "model_name": "Impala",
+              "model_name_urlified": "impala",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "265",
+              "model_name": "Malibu",
+              "model_name_urlified": "malibu",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "267",
+              "model_name": "Silverado 1500",
+              "model_name_urlified": "silverado-1500",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1973",
+              "model_name": "Silverado 1500 Hybrid",
+              "model_name_urlified": "silverado-1500-hybrid",
+              "years": ["2013"]
+          }, {
+              "model_id": "692",
+              "model_name": "Silverado 2500HD",
+              "model_name_urlified": "silverado-2500hd",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1891",
+              "model_name": "Silverado 3500HD",
+              "model_name_urlified": "silverado-3500hd",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2164",
+              "model_name": "Sonic",
+              "model_name_urlified": "sonic",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2194",
+              "model_name": "Spark",
+              "model_name_urlified": "spark",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "497",
+              "model_name": "Suburban 1500",
+              "model_name_urlified": "suburban-1500",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1900",
+              "model_name": "Suburban 2500",
+              "model_name_urlified": "suburban-2500",
+              "years": ["2013"]
+          }, {
+              "model_id": "498",
+              "model_name": "Tahoe",
+              "model_name_urlified": "tahoe",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2007",
+              "model_name": "Tahoe Hybrid",
+              "model_name_urlified": "tahoe-hybrid",
+              "years": ["2013"]
+          }, {
+              "model_id": "2040",
+              "model_name": "Traverse",
+              "model_name_urlified": "traverse",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2129",
+              "model_name": "Volt",
+              "model_name_urlified": "volt",
+              "years": ["2014", "2013"]
+          }]
+      },
+      "chrysler": {
+          "make_name": "Chrysler",
+          "make_name_urlified": "chrysler",
+          "models": [{
+              "model_id": "2142",
+              "model_name": "200",
+              "model_name_urlified": "200",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1035",
+              "model_name": "300",
+              "model_name_urlified": "300",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1901",
+              "model_name": "300C",
+              "model_name_urlified": "300c",
+              "years": ["2013"]
+          }, {
+              "model_id": "645",
+              "model_name": "Town and Country",
+              "model_name_urlified": "town-and-country",
+              "years": ["2013", "2014"]
+          }]
+      },
+      "dodge": {
+          "make_name": "Dodge",
+          "make_name_urlified": "dodge",
+          "models": [{
+              "model_id": "1899",
+              "model_name": "Avenger",
+              "model_name_urlified": "avenger",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2009",
+              "model_name": "Challenger",
+              "model_name_urlified": "challenger",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1329",
+              "model_name": "Charger",
+              "model_name_urlified": "charger",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2200",
+              "model_name": "Dart",
+              "model_name_urlified": "dart",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "617",
+              "model_name": "Durango",
+              "model_name_urlified": "durango",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "618",
+              "model_name": "Grand Caravan",
+              "model_name_urlified": "grand-caravan",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2018",
+              "model_name": "Journey",
+              "model_name_urlified": "journey",
+              "years": ["2014", "2013"]
+          }]
+      },
+      "fiat": {
+          "make_name": "FIAT",
+          "make_name_urlified": "fiat",
+          "models": [{
+              "model_id": "2153",
+              "model_name": "500",
+              "model_name_urlified": "500",
+              "years": ["2013"]
+          }, {
+              "model_id": "2162",
+              "model_name": "500c",
+              "model_name_urlified": "500c",
+              "years": ["2013"]
+          }, {
+              "model_id": "2265",
+              "model_name": "500L",
+              "model_name_urlified": "500l",
+              "years": ["2014"]
+          }]
+      },
+      "ford": {
+          "make_name": "Ford",
+          "make_name_urlified": "ford",
+          "models": [{
+              "model_id": "2208",
+              "model_name": "C-Max Hybrid",
+              "model_name_urlified": "c-max-hybrid",
+              "years": ["2013"]
+          }, {
+              "model_id": "1175",
+              "model_name": "E-150",
+              "model_name_urlified": "e-150",
+              "years": ["2013"]
+          }, {
+              "model_id": "1131",
+              "model_name": "E-250",
+              "model_name_urlified": "e-250",
+              "years": ["2013"]
+          }, {
+              "model_id": "1903",
+              "model_name": "E-350 Super Duty",
+              "model_name_urlified": "e-350-super-duty",
+              "years": ["2013"]
+          }, {
+              "model_id": "1881",
+              "model_name": "Edge",
+              "model_name_urlified": "edge",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "505",
+              "model_name": "Escape",
+              "model_name_urlified": "escape",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "507",
+              "model_name": "Expedition",
+              "model_name_urlified": "expedition",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1869",
+              "model_name": "Expedition EL",
+              "model_name_urlified": "expedition-el",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "508",
+              "model_name": "Explorer",
+              "model_name_urlified": "explorer",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1176",
+              "model_name": "F-150",
+              "model_name_urlified": "f-150",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "516",
+              "model_name": "F-250",
+              "model_name_urlified": "f-250",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "518",
+              "model_name": "F-350",
+              "model_name_urlified": "f-350",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2111",
+              "model_name": "Fiesta",
+              "model_name_urlified": "fiesta",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2025",
+              "model_name": "Flex",
+              "model_name_urlified": "flex",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "520",
+              "model_name": "Focus",
+              "model_name_urlified": "focus",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2201",
+              "model_name": "Focus ST",
+              "model_name_urlified": "focus-st",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1779",
+              "model_name": "Fusion",
+              "model_name_urlified": "fusion",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2250",
+              "model_name": "Fusion Energi",
+              "model_name_urlified": "fusion-energi",
+              "years": ["2014"]
+          }, {
+              "model_id": "2066",
+              "model_name": "Fusion Hybrid",
+              "model_name_urlified": "fusion-hybrid",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "521",
+              "model_name": "Mustang",
+              "model_name_urlified": "mustang",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "523",
+              "model_name": "Taurus",
+              "model_name_urlified": "taurus",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2070",
+              "model_name": "Transit Connect",
+              "model_name_urlified": "transit-connect",
+              "years": ["2013"]
+          }]
+      },
+      "gmc": {
+          "make_name": "GMC",
+          "make_name_urlified": "gmc",
+          "models": [{
+              "model_id": "1885",
+              "model_name": "Acadia",
+              "model_name_urlified": "acadia",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2049",
+              "model_name": "Savana 1500",
+              "model_name_urlified": "savana-1500",
+              "years": ["2013"]
+          }, {
+              "model_id": "2050",
+              "model_name": "Savana 2500",
+              "model_name_urlified": "savana-2500",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2051",
+              "model_name": "Savana 3500",
+              "model_name_urlified": "savana-3500",
+              "years": ["2013"]
+          }, {
+              "model_id": "581",
+              "model_name": "Sierra 1500",
+              "model_name_urlified": "sierra-1500",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1981",
+              "model_name": "Sierra 1500 Hybrid",
+              "model_name_urlified": "sierra-1500-hybrid",
+              "years": ["2013"]
+          }, {
+              "model_id": "1000",
+              "model_name": "Sierra 2500HD",
+              "model_name_urlified": "sierra-2500hd",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1892",
+              "model_name": "Sierra 3500HD",
+              "model_name_urlified": "sierra-3500hd",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2082",
+              "model_name": "Terrain",
+              "model_name_urlified": "terrain",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "529",
+              "model_name": "Yukon",
+              "model_name_urlified": "yukon",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2008",
+              "model_name": "Yukon Hybrid",
+              "model_name_urlified": "yukon-hybrid",
+              "years": ["2013"]
+          }, {
+              "model_id": "531",
+              "model_name": "Yukon XL 1500",
+              "model_name_urlified": "yukon-xl-1500",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1905",
+              "model_name": "Yukon XL 2500",
+              "model_name_urlified": "yukon-xl-2500",
+              "years": ["2013"]
+          }]
+      },
+      "honda": {
+          "make_name": "Honda",
+          "make_name_urlified": "honda",
+          "models": [{
+              "model_id": "1132",
+              "model_name": "Accord",
+              "model_name_urlified": "accord",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1133",
+              "model_name": "Civic",
+              "model_name_urlified": "civic",
+              "years": ["2013"]
+          }, {
+              "model_id": "1907",
+              "model_name": "Civic Hybrid",
+              "model_name_urlified": "civic-hybrid",
+              "years": ["2013"]
+          }, {
+              "model_id": "111",
+              "model_name": "CR-V",
+              "model_name_urlified": "cr-v",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2131",
+              "model_name": "CR-Z",
+              "model_name_urlified": "cr-z",
+              "years": ["2013"]
+          }, {
+              "model_id": "2173",
+              "model_name": "Crosstour",
+              "model_name_urlified": "crosstour",
+              "years": ["2013"]
+          }, {
+              "model_id": "1842",
+              "model_name": "Fit",
+              "model_name_urlified": "fit",
+              "years": ["2013"]
+          }, {
+              "model_id": "1983",
+              "model_name": "Insight",
+              "model_name_urlified": "insight",
+              "years": ["2013"]
+          }, {
+              "model_id": "113",
+              "model_name": "Odyssey",
+              "model_name_urlified": "odyssey",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "533",
+              "model_name": "Pilot",
+              "model_name_urlified": "pilot",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1203",
+              "model_name": "Ridgeline",
+              "model_name_urlified": "ridgeline",
+              "years": ["2013", "2014"]
+          }]
+      },
+      "hyundai": {
+          "make_name": "Hyundai",
+          "make_name_urlified": "hyundai",
+          "models": [{
+              "model_id": "117",
+              "model_name": "Accent",
+              "model_name_urlified": "accent",
+              "years": ["2013"]
+          }, {
+              "model_id": "1832",
+              "model_name": "Azera",
+              "model_name_urlified": "azera",
+              "years": ["2013"]
+          }, {
+              "model_id": "604",
+              "model_name": "Elantra",
+              "model_name_urlified": "elantra",
+              "years": ["2013"]
+          }, {
+              "model_id": "2212",
+              "model_name": "Elantra GT",
+              "model_name_urlified": "elantra-gt",
+              "years": ["2013"]
+          }, {
+              "model_id": "2148",
+              "model_name": "Equus",
+              "model_name_urlified": "equus",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2031",
+              "model_name": "Genesis",
+              "model_name_urlified": "genesis",
+              "years": ["2013"]
+          }, {
+              "model_id": "2076",
+              "model_name": "Genesis Coupe",
+              "model_name_urlified": "genesis-coupe",
+              "years": ["2013"]
+          }, {
+              "model_id": "119",
+              "model_name": "Santa Fe",
+              "model_name_urlified": "santa-fe",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2221",
+              "model_name": "Santa Fe Sport",
+              "model_name_urlified": "santa-fe-sport",
+              "years": ["2014"]
+          }, {
+              "model_id": "120",
+              "model_name": "Sonata",
+              "model_name_urlified": "sonata",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2154",
+              "model_name": "Sonata Hybrid",
+              "model_name_urlified": "sonata-hybrid",
+              "years": ["2013"]
+          }, {
+              "model_id": "1090",
+              "model_name": "Tucson",
+              "model_name_urlified": "tucson",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2177",
+              "model_name": "Veloster",
+              "model_name_urlified": "veloster",
+              "years": ["2013"]
+          }]
+      },
+      "infiniti": {
+          "make_name": "Infiniti",
+          "make_name_urlified": "infiniti",
+          "models": [{
+              "model_id": "2232",
+              "model_name": "EX37",
+              "model_name_urlified": "ex37",
+              "years": ["2013"]
+          }, {
+              "model_id": "2216",
+              "model_name": "FX37",
+              "model_name_urlified": "fx37",
+              "years": ["2013"]
+          }, {
+              "model_id": "2032",
+              "model_name": "FX50",
+              "model_name_urlified": "fx50",
+              "years": ["2013"]
+          }, {
+              "model_id": "1957",
+              "model_name": "G37",
+              "model_name_urlified": "g37",
+              "years": ["2013"]
+          }, {
+              "model_id": "2055",
+              "model_name": "G37x",
+              "model_name_urlified": "g37x",
+              "years": ["2013"]
+          }, {
+              "model_id": "2210",
+              "model_name": "IPL G",
+              "model_name_urlified": "ipl-g",
+              "years": ["2013"]
+          }, {
+              "model_id": "2185",
+              "model_name": "JX35",
+              "model_name_urlified": "jx35",
+              "years": ["2013"]
+          }, {
+              "model_id": "2155",
+              "model_name": "M35h",
+              "model_name_urlified": "m35h",
+              "years": ["2013"]
+          }, {
+              "model_id": "2106",
+              "model_name": "M37",
+              "model_name_urlified": "m37",
+              "years": ["2013"]
+          }, {
+              "model_id": "2107",
+              "model_name": "M37x",
+              "model_name_urlified": "m37x",
+              "years": ["2013"]
+          }, {
+              "model_id": "2108",
+              "model_name": "M56",
+              "model_name_urlified": "m56",
+              "years": ["2013"]
+          }, {
+              "model_id": "2109",
+              "model_name": "M56x",
+              "model_name_urlified": "m56x",
+              "years": ["2013"]
+          }, {
+              "model_id": "2257",
+              "model_name": "Q50",
+              "model_name_urlified": "q50",
+              "years": ["2014"]
+          }, {
+              "model_id": "2258",
+              "model_name": "Q50 Hybrid",
+              "model_name_urlified": "q50-hybrid",
+              "years": ["2014"]
+          }, {
+              "model_id": "2283",
+              "model_name": "Q60",
+              "model_name_urlified": "q60",
+              "years": ["2014"]
+          }, {
+              "model_id": "2275",
+              "model_name": "QX50",
+              "model_name_urlified": "qx50",
+              "years": ["2014"]
+          }, {
+              "model_id": "1033",
+              "model_name": "QX56",
+              "model_name_urlified": "qx56",
+              "years": ["2013"]
+          }, {
+              "model_id": "2269",
+              "model_name": "QX60",
+              "model_name_urlified": "qx60",
+              "years": ["2014"]
+          }, {
+              "model_id": "2290",
+              "model_name": "QX60 Hybrid",
+              "model_name_urlified": "qx60-hybrid",
+              "years": ["2014"]
+          }, {
+              "model_id": "2270",
+              "model_name": "QX70",
+              "model_name_urlified": "qx70",
+              "years": ["2014"]
+          }, {
+              "model_id": "2278",
+              "model_name": "QX80",
+              "model_name_urlified": "qx80",
+              "years": ["2014"]
+          }]
+      },
+      "jaguar": {
+          "make_name": "Jaguar",
+          "make_name_urlified": "jaguar",
+          "models": [{
+              "model_id": "2247",
+              "model_name": "F-TYPE",
+              "model_name_urlified": "f-type",
+              "years": ["2014"]
+          }, {
+              "model_id": "2014",
+              "model_name": "XF",
+              "model_name_urlified": "xf",
+              "years": ["2013"]
+          }, {
+              "model_id": "537",
+              "model_name": "XJ",
+              "model_name_urlified": "xj",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "133",
+              "model_name": "XK",
+              "model_name_urlified": "xk",
+              "years": ["2013"]
+          }]
+      },
+      "jeep": {
+          "make_name": "Jeep",
+          "make_name_urlified": "jeep",
+          "models": [{
+              "model_id": "2268",
+              "model_name": "Cherokee",
+              "model_name_urlified": "cherokee",
+              "years": ["2014"]
+          }, {
+              "model_id": "1859",
+              "model_name": "Compass",
+              "model_name_urlified": "compass",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "625",
+              "model_name": "Grand Cherokee",
+              "model_name_urlified": "grand-cherokee",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1890",
+              "model_name": "Patriot",
+              "model_name_urlified": "patriot",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "627",
+              "model_name": "Wrangler",
+              "model_name_urlified": "wrangler",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2044",
+              "model_name": "Wrangler Unlimited",
+              "model_name_urlified": "wrangler-unlimited",
+              "years": ["2013", "2014"]
+          }]
+      },
+      "kia": {
+          "make_name": "Kia",
+          "make_name_urlified": "kia",
+          "models": [{
+              "model_id": "2259",
+              "model_name": "Cadenza",
+              "model_name_urlified": "cadenza",
+              "years": ["2014"]
+          }, {
+              "model_id": "2080",
+              "model_name": "Forte",
+              "model_name_urlified": "forte",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2093",
+              "model_name": "Forte Koup",
+              "model_name_urlified": "forte-koup",
+              "years": ["2013"]
+          }, {
+              "model_id": "137",
+              "model_name": "Optima",
+              "model_name_urlified": "optima",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2163",
+              "model_name": "Optima Hybrid",
+              "model_name_urlified": "optima-hybrid",
+              "years": ["2013"]
+          }, {
+              "model_id": "138",
+              "model_name": "Rio",
+              "model_name_urlified": "rio",
+              "years": ["2013"]
+          }, {
+              "model_id": "139",
+              "model_name": "Sedona",
+              "model_name_urlified": "sedona",
+              "years": ["2014"]
+          }, {
+              "model_id": "659",
+              "model_name": "Sorento",
+              "model_name_urlified": "sorento",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2068",
+              "model_name": "Soul",
+              "model_name_urlified": "soul",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1195",
+              "model_name": "Sportage",
+              "model_name_urlified": "sportage",
+              "years": ["2013"]
+          }]
+      },
+      "land-rover": {
+          "make_name": "Land Rover",
+          "make_name_urlified": "land-rover",
+          "models": [{
+              "model_id": "1945",
+              "model_name": "LR2",
+              "model_name_urlified": "lr2",
+              "years": ["2013"]
+          }, {
+              "model_id": "2094",
+              "model_name": "LR4",
+              "model_name_urlified": "lr4",
+              "years": ["2013"]
+          }, {
+              "model_id": "144",
+              "model_name": "Range Rover",
+              "model_name_urlified": "range-rover",
+              "years": ["2013"]
+          }, {
+              "model_id": "2171",
+              "model_name": "Range Rover Evoque",
+              "model_name_urlified": "range-rover-evoque",
+              "years": ["2013"]
+          }, {
+              "model_id": "1763",
+              "model_name": "Range Rover Sport",
+              "model_name_urlified": "range-rover-sport",
+              "years": ["2013"]
+          }]
+      },
+      "lexus": {
+          "make_name": "Lexus",
+          "make_name_urlified": "lexus",
+          "models": [{
+              "model_id": "2149",
+              "model_name": "CT 200h",
+              "model_name_urlified": "ct-200h",
+              "years": ["2013"]
+          }, {
+              "model_id": "2220",
+              "model_name": "ES 300h",
+              "model_name_urlified": "es-300h",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1850",
+              "model_name": "ES 350",
+              "model_name_urlified": "es-350",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1876",
+              "model_name": "GS 350",
+              "model_name_urlified": "gs-350",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1853",
+              "model_name": "GS 450h",
+              "model_name_urlified": "gs-450h",
+              "years": ["2013"]
+          }, {
+              "model_id": "2102",
+              "model_name": "GX 460",
+              "model_name_urlified": "gx-460",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1827",
+              "model_name": "IS 250",
+              "model_name_urlified": "is-250",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2078",
+              "model_name": "IS 250C",
+              "model_name_urlified": "is-250c",
+              "years": ["2013"]
+          }, {
+              "model_id": "1828",
+              "model_name": "IS 350",
+              "model_name_urlified": "is-350",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2079",
+              "model_name": "IS 350C",
+              "model_name_urlified": "is-350c",
+              "years": ["2013"]
+          }, {
+              "model_id": "2021",
+              "model_name": "IS-F",
+              "model_name_urlified": "is-f",
+              "years": ["2013"]
+          }, {
+              "model_id": "1884",
+              "model_name": "LS 460",
+              "model_name_urlified": "ls-460",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1955",
+              "model_name": "LS 600h",
+              "model_name_urlified": "ls-600h",
+              "years": ["2013"]
+          }, {
+              "model_id": "2017",
+              "model_name": "LX 570",
+              "model_name_urlified": "lx-570",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1838",
+              "model_name": "RX 350",
+              "model_name_urlified": "rx-350",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2077",
+              "model_name": "RX 450h",
+              "model_name_urlified": "rx-450h",
+              "years": ["2013", "2014"]
+          }]
+      },
+      "lincoln": {
+          "make_name": "Lincoln",
+          "make_name_urlified": "lincoln",
+          "models": [{
+              "model_id": "2028",
+              "model_name": "MKS",
+              "model_name_urlified": "mks",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2069",
+              "model_name": "MKT",
+              "model_name_urlified": "mkt",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1882",
+              "model_name": "MKX",
+              "model_name_urlified": "mkx",
+              "years": ["2013"]
+          }, {
+              "model_id": "1877",
+              "model_name": "MKZ",
+              "model_name_urlified": "mkz",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2128",
+              "model_name": "MKZ Hybrid",
+              "model_name_urlified": "mkz-hybrid",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "538",
+              "model_name": "Navigator",
+              "model_name_urlified": "navigator",
+              "years": ["2013"]
+          }, {
+              "model_id": "1888",
+              "model_name": "Navigator L",
+              "model_name_urlified": "navigator-l",
+              "years": ["2013"]
+          }]
+      },
+      "mazda": {
+          "make_name": "Mazda",
+          "make_name_urlified": "mazda",
+          "models": [{
+              "model_id": "2187",
+              "model_name": "CX-5",
+              "model_name_urlified": "cx-5",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1883",
+              "model_name": "CX-9",
+              "model_name_urlified": "cx-9",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2127",
+              "model_name": "Mazda2",
+              "model_name_urlified": "mazda2",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1018",
+              "model_name": "Mazda3",
+              "model_name_urlified": "mazda3",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1768",
+              "model_name": "Mazda5",
+              "model_name_urlified": "mazda5",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "661",
+              "model_name": "Mazda6",
+              "model_name_urlified": "mazda6",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1870",
+              "model_name": "MAZDASPEED3",
+              "model_name_urlified": "mazdaspeed3",
+              "years": ["2013"]
+          }, {
+              "model_id": "2067",
+              "model_name": "MX-5 Miata",
+              "model_name_urlified": "mx-5-miata",
+              "years": ["2013", "2014"]
+          }]
+      },
+      "mercedes-benz": {
+          "make_name": "Mercedes-Benz",
+          "make_name_urlified": "mercedes-benz",
+          "models": [{
+              "model_id": "582",
+              "model_name": "C-Class",
+              "model_name_urlified": "c-class",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "166",
+              "model_name": "CL-Class",
+              "model_name_urlified": "cl-class",
+              "years": ["2013"]
+          }, {
+              "model_id": "2276",
+              "model_name": "CLA-Class",
+              "model_name_urlified": "cla-class",
+              "years": ["2014"]
+          }, {
+              "model_id": "1202",
+              "model_name": "CLS-Class",
+              "model_name_urlified": "cls-class",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "594",
+              "model_name": "E-Class",
+              "model_name_urlified": "e-class",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1940",
+              "model_name": "G-Class",
+              "model_name_urlified": "g-class",
+              "years": ["2013"]
+          }, {
+              "model_id": "1854",
+              "model_name": "GL-Class",
+              "model_name_urlified": "gl-class",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2064",
+              "model_name": "GLK-Class",
+              "model_name_urlified": "glk-class",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "595",
+              "model_name": "M-Class",
+              "model_name_urlified": "m-class",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "171",
+              "model_name": "S-Class",
+              "model_name_urlified": "s-class",
+              "years": ["2013"]
+          }, {
+              "model_id": "540",
+              "model_name": "SL-Class",
+              "model_name_urlified": "sl-class",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "583",
+              "model_name": "SLK-Class",
+              "model_name_urlified": "slk-class",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2137",
+              "model_name": "Sprinter",
+              "model_name_urlified": "sprinter",
+              "years": ["2013"]
+          }]
+      },
+      "mini": {
+          "make_name": "MINI",
+          "make_name_urlified": "mini",
+          "models": [{
+              "model_id": "2224",
+              "model_name": "MINI-Clubman",
+              "model_name_urlified": "mini-clubman",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2229",
+              "model_name": "MINI-Convertible",
+              "model_name_urlified": "mini-convertible",
+              "years": ["2013"]
+          }, {
+              "model_id": "2241",
+              "model_name": "MINI-Countryman",
+              "model_name_urlified": "mini-countryman",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2225",
+              "model_name": "MINI-Coupe",
+              "model_name_urlified": "mini-coupe",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2230",
+              "model_name": "MINI-Hardtop",
+              "model_name_urlified": "mini-hardtop",
+              "years": ["2013"]
+          }, {
+              "model_id": "2246",
+              "model_name": "MINI-Paceman",
+              "model_name_urlified": "mini-paceman",
+              "years": ["2014"]
+          }, {
+              "model_id": "2226",
+              "model_name": "MINI-Roadster",
+              "model_name_urlified": "mini-roadster",
+              "years": ["2014", "2013"]
+          }]
+      },
+      "mitsubishi": {
+          "make_name": "Mitsubishi",
+          "make_name_urlified": "mitsubishi",
+          "models": [{
+              "model_id": "183",
+              "model_name": "Lancer",
+              "model_name_urlified": "lancer",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "983",
+              "model_name": "Lancer Evolution",
+              "model_name_urlified": "lancer-evolution",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2286",
+              "model_name": "Mirage",
+              "model_name_urlified": "mirage",
+              "years": ["2014"]
+          }, {
+              "model_id": "663",
+              "model_name": "Outlander",
+              "model_name_urlified": "outlander",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2135",
+              "model_name": "Outlander Sport",
+              "model_name_urlified": "outlander-sport",
+              "years": ["2013", "2014"]
+          }]
+      },
+      "nissan": {
+          "make_name": "Nissan",
+          "make_name_urlified": "nissan",
+          "models": [{
+              "model_id": "2063",
+              "model_name": "370Z",
+              "model_name_urlified": "370z",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "649",
+              "model_name": "Altima",
+              "model_name_urlified": "altima",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1031",
+              "model_name": "Armada",
+              "model_name_urlified": "armada",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2074",
+              "model_name": "Cube",
+              "model_name_urlified": "cube",
+              "years": ["2013"]
+          }, {
+              "model_id": "188",
+              "model_name": "Frontier",
+              "model_name_urlified": "frontier",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2022",
+              "model_name": "GT-R",
+              "model_name_urlified": "gt-r",
+              "years": ["2013"]
+          }, {
+              "model_id": "2130",
+              "model_name": "Juke",
+              "model_name_urlified": "juke",
+              "years": ["2013"]
+          }, {
+              "model_id": "2134",
+              "model_name": "LEAF",
+              "model_name_urlified": "leaf",
+              "years": ["2013"]
+          }, {
+              "model_id": "548",
+              "model_name": "Maxima",
+              "model_name_urlified": "maxima",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "675",
+              "model_name": "Murano",
+              "model_name_urlified": "murano",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2143",
+              "model_name": "Murano CrossCabriolet",
+              "model_name_urlified": "murano-crosscabriolet",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2237",
+              "model_name": "NV Cargo NV1500",
+              "model_name_urlified": "nv-cargo-nv1500",
+              "years": ["2013"]
+          }, {
+              "model_id": "2238",
+              "model_name": "NV Cargo NV2500 HD",
+              "model_name_urlified": "nv-cargo-nv2500-hd",
+              "years": ["2013"]
+          }, {
+              "model_id": "2239",
+              "model_name": "NV Cargo NV3500 HD",
+              "model_name_urlified": "nv-cargo-nv3500-hd",
+              "years": ["2013"]
+          }, {
+              "model_id": "2240",
+              "model_name": "NV Passenger NV3500 HD",
+              "model_name_urlified": "nv-passenger-nv3500-hd",
+              "years": ["2013"]
+          }, {
+              "model_id": "2248",
+              "model_name": "NV200",
+              "model_name_urlified": "nv200",
+              "years": ["2013"]
+          }, {
+              "model_id": "190",
+              "model_name": "Pathfinder",
+              "model_name_urlified": "pathfinder",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2291",
+              "model_name": "Pathfinder Hybrid",
+              "model_name_urlified": "pathfinder-hybrid",
+              "years": ["2014"]
+          }, {
+              "model_id": "191",
+              "model_name": "Quest",
+              "model_name_urlified": "quest",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1962",
+              "model_name": "Rogue",
+              "model_name_urlified": "rogue",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "192",
+              "model_name": "Sentra",
+              "model_name_urlified": "sentra",
+              "years": ["2013"]
+          }, {
+              "model_id": "1006",
+              "model_name": "Titan",
+              "model_name_urlified": "titan",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1866",
+              "model_name": "Versa",
+              "model_name_urlified": "versa",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2266",
+              "model_name": "Versa Note",
+              "model_name_urlified": "versa-note",
+              "years": ["2014"]
+          }, {
+              "model_id": "193",
+              "model_name": "Xterra",
+              "model_name_urlified": "xterra",
+              "years": ["2013"]
+          }]
+      },
+      "porsche": {
+          "make_name": "Porsche",
+          "make_name_urlified": "porsche",
+          "models": [{
+              "model_id": "208",
+              "model_name": "Boxster",
+              "model_name_urlified": "boxster",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "681",
+              "model_name": "Cayenne",
+              "model_name_urlified": "cayenne",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2126",
+              "model_name": "Cayenne Hybrid",
+              "model_name_urlified": "cayenne-hybrid",
+              "years": ["2013"]
+          }, {
+              "model_id": "1878",
+              "model_name": "Cayman",
+              "model_name_urlified": "cayman",
+              "years": ["2014"]
+          }]
+      },
+      "ram": {
+          "make_name": "RAM",
+          "make_name_urlified": "ram",
+          "models": [{
+              "model_id": "2167",
+              "model_name": "1500",
+              "model_name_urlified": "1500",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2168",
+              "model_name": "2500",
+              "model_name_urlified": "2500",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2169",
+              "model_name": "3500",
+              "model_name_urlified": "3500",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2172",
+              "model_name": "Cargo",
+              "model_name_urlified": "cargo",
+              "years": ["2013", "2014"]
+          }]
+      },
+      "scion": {
+          "make_name": "Scion",
+          "make_name_urlified": "scion",
+          "models": [{
+              "model_id": "2193",
+              "model_name": "FR-S",
+              "model_name_urlified": "fr-s",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2170",
+              "model_name": "iQ",
+              "model_name_urlified": "iq",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1043",
+              "model_name": "tC",
+              "model_name_urlified": "tc",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1010",
+              "model_name": "xB",
+              "model_name_urlified": "xb",
+              "years": ["2013"]
+          }, {
+              "model_id": "1956",
+              "model_name": "xD",
+              "model_name_urlified": "xd",
+              "years": ["2014", "2013"]
+          }]
+      },
+      "smart": {
+          "make_name": "smart",
+          "make_name_urlified": "smart",
+          "models": [{
+              "model_id": "2024",
+              "model_name": "fortwo",
+              "model_name_urlified": "fortwo",
+              "years": ["2013"]
+          }, {
+              "model_id": "2156",
+              "model_name": "fortwo electric drive",
+              "model_name_urlified": "fortwo-electric-drive",
+              "years": ["2013"]
+          }]
+      },
+      "subaru": {
+          "make_name": "Subaru",
+          "make_name_urlified": "subaru",
+          "models": [{
+              "model_id": "2195",
+              "model_name": "BRZ",
+              "model_name_urlified": "brz",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "560",
+              "model_name": "Forester",
+              "model_name_urlified": "forester",
+              "years": ["2014"]
+          }, {
+              "model_id": "561",
+              "model_name": "Impreza",
+              "model_name_urlified": "impreza",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2236",
+              "model_name": "Impreza WRX",
+              "model_name_urlified": "impreza-wrx",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "562",
+              "model_name": "Legacy",
+              "model_name_urlified": "legacy",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "563",
+              "model_name": "Outback",
+              "model_name_urlified": "outback",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1951",
+              "model_name": "Tribeca",
+              "model_name_urlified": "tribeca",
+              "years": ["2013"]
+          }, {
+              "model_id": "2223",
+              "model_name": "XV Crosstrek",
+              "model_name_urlified": "xv-crosstrek",
+              "years": ["2013", "2014"]
+          }]
+      },
+      "toyota": {
+          "make_name": "Toyota",
+          "make_name_urlified": "toyota",
+          "models": [{
+              "model_id": "224",
+              "model_name": "4Runner",
+              "model_name_urlified": "4runner",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "565",
+              "model_name": "Avalon",
+              "model_name_urlified": "avalon",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2242",
+              "model_name": "Avalon Hybrid",
+              "model_name_urlified": "avalon-hybrid",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "637",
+              "model_name": "Camry",
+              "model_name_urlified": "camry",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1858",
+              "model_name": "Camry Hybrid",
+              "model_name_urlified": "camry-hybrid",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "566",
+              "model_name": "Corolla",
+              "model_name_urlified": "corolla",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "1843",
+              "model_name": "FJ Cruiser",
+              "model_name_urlified": "fj-cruiser",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "638",
+              "model_name": "Highlander",
+              "model_name_urlified": "highlander",
+              "years": ["2013"]
+          }, {
+              "model_id": "1764",
+              "model_name": "Highlander Hybrid",
+              "model_name_urlified": "highlander-hybrid",
+              "years": ["2013"]
+          }, {
+              "model_id": "597",
+              "model_name": "Land Cruiser",
+              "model_name_urlified": "land-cruiser",
+              "years": ["2013"]
+          }, {
+              "model_id": "223",
+              "model_name": "Matrix",
+              "model_name_urlified": "matrix",
+              "years": ["2013"]
+          }, {
+              "model_id": "651",
+              "model_name": "Prius",
+              "model_name_urlified": "prius",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2189",
+              "model_name": "Prius c",
+              "model_name_urlified": "prius-c",
+              "years": ["2013"]
+          }, {
+              "model_id": "2182",
+              "model_name": "Prius Plug-in",
+              "model_name_urlified": "prius-plug-in",
+              "years": ["2013"]
+          }, {
+              "model_id": "2180",
+              "model_name": "Prius v",
+              "model_name_urlified": "prius-v",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "639",
+              "model_name": "RAV4",
+              "model_name_urlified": "rav4",
+              "years": ["2013"]
+          }, {
+              "model_id": "235",
+              "model_name": "Sequoia",
+              "model_name_urlified": "sequoia",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "567",
+              "model_name": "Sienna",
+              "model_name_urlified": "sienna",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "640",
+              "model_name": "Tacoma",
+              "model_name_urlified": "tacoma",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "599",
+              "model_name": "Tundra",
+              "model_name_urlified": "tundra",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2056",
+              "model_name": "Venza",
+              "model_name_urlified": "venza",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1841",
+              "model_name": "Yaris",
+              "model_name_urlified": "yaris",
+              "years": ["2014", "2013"]
+          }]
+      },
+      "volkswagen": {
+          "make_name": "Volkswagen",
+          "make_name_urlified": "volkswagen",
+          "models": [{
+              "model_id": "2165",
+              "model_name": "Beetle",
+              "model_name_urlified": "beetle",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2053",
+              "model_name": "CC",
+              "model_name_urlified": "cc",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "1873",
+              "model_name": "Eos",
+              "model_name_urlified": "eos",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2002",
+              "model_name": "Golf",
+              "model_name_urlified": "golf",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2190",
+              "model_name": "Golf R",
+              "model_name_urlified": "golf-r",
+              "years": ["2013"]
+          }, {
+              "model_id": "643",
+              "model_name": "GTI",
+              "model_name_urlified": "gti",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "653",
+              "model_name": "Jetta",
+              "model_name_urlified": "jetta",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2234",
+              "model_name": "Jetta Hybrid",
+              "model_name_urlified": "jetta-hybrid",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2222",
+              "model_name": "Jetta SportWagen",
+              "model_name_urlified": "jetta-sportwagen",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "644",
+              "model_name": "Passat",
+              "model_name_urlified": "passat",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "2029",
+              "model_name": "Tiguan",
+              "model_name_urlified": "tiguan",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "990",
+              "model_name": "Touareg",
+              "model_name_urlified": "touareg",
+              "years": ["2014", "2013"]
+          }]
+      },
+      "volvo": {
+          "make_name": "Volvo",
+          "make_name_urlified": "volvo",
+          "models": [{
+              "model_id": "1946",
+              "model_name": "C30",
+              "model_name_urlified": "c30",
+              "years": ["2013"]
+          }, {
+              "model_id": "248",
+              "model_name": "C70",
+              "model_name_urlified": "c70",
+              "years": ["2013"]
+          }, {
+              "model_id": "250",
+              "model_name": "S60",
+              "model_name_urlified": "s60",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "251",
+              "model_name": "S80",
+              "model_name_urlified": "s80",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "2071",
+              "model_name": "XC60",
+              "model_name_urlified": "xc60",
+              "years": ["2013", "2014"]
+          }, {
+              "model_id": "666",
+              "model_name": "XC70",
+              "model_name_urlified": "xc70",
+              "years": ["2014", "2013"]
+          }, {
+              "model_id": "667",
+              "model_name": "XC90",
+              "model_name_urlified": "xc90",
+              "years": ["2014", "2013"]
+          }]
+      }
+  },
+  "car": {
+      "bodystyle": null,
+      "bodystyle_urlified": "",
+      "chrome_id": null,
+      "colors": [],
+      "image": null,
+      "alt": "",
+      "invoice_price": "N\/A",
+      "make_id": null,
+      "make_name": null,
+      "make_name_urlified": "",
+      "model_name": null,
+      "model_name_urlified": "",
+      "model_id": null,
+      "msrp": "N\/A",
+      "style_name": null,
+      "style_name_urlified": "",
+      "style_id": null,
+      "year": null,
+      "bodytype": null,
+      "hybrid": "",
+      "series_name": null
+  },
+  "errors": null
+},
+
+/* Form Page JSON */
+{
+    "car": {
+        "bodystyle": "",
+        "bodystyle_urlified": "",
+        "chrome_id": null,
+        "colors": [{
+            "exterior": "Black",
+            "interior": "Beige",
+            "color_name": "Exterior: Black - Interior: Beige",
+            "color_name_urlified": "exterior-black-interior-beige"
+        }, {
+            "exterior": "Black",
+            "interior": "Black",
+            "color_name": "Exterior: Black - Interior: Black",
+            "color_name_urlified": "exterior-black-interior-black"
+        }, {
+            "exterior": "Black",
+            "interior": "Brown",
+            "color_name": "Exterior: Black - Interior: Brown",
+            "color_name_urlified": "exterior-black-interior-brown"
+        }, {
+            "exterior": "Black",
+            "interior": "Gray",
+            "color_name": "Exterior: Black - Interior: Gray",
+            "color_name_urlified": "exterior-black-interior-gray"
+        }, {
+            "exterior": "Blue",
+            "interior": "Beige",
+            "color_name": "Exterior: Blue - Interior: Beige",
+            "color_name_urlified": "exterior-blue-interior-beige"
+        }, {
+            "exterior": "Blue",
+            "interior": "Black",
+            "color_name": "Exterior: Blue - Interior: Black",
+            "color_name_urlified": "exterior-blue-interior-black"
+        }, {
+            "exterior": "Blue",
+            "interior": "Brown",
+            "color_name": "Exterior: Blue - Interior: Brown",
+            "color_name_urlified": "exterior-blue-interior-brown"
+        }, {
+            "exterior": "Blue",
+            "interior": "Gray",
+            "color_name": "Exterior: Blue - Interior: Gray",
+            "color_name_urlified": "exterior-blue-interior-gray"
+        }, {
+            "exterior": "Gray",
+            "interior": "Beige",
+            "color_name": "Exterior: Gray - Interior: Beige",
+            "color_name_urlified": "exterior-gray-interior-beige"
+        }, {
+            "exterior": "Gray",
+            "interior": "Black",
+            "color_name": "Exterior: Gray - Interior: Black",
+            "color_name_urlified": "exterior-gray-interior-black"
+        }, {
+            "exterior": "Gray",
+            "interior": "Brown",
+            "color_name": "Exterior: Gray - Interior: Brown",
+            "color_name_urlified": "exterior-gray-interior-brown"
+        }, {
+            "exterior": "Gray",
+            "interior": "Gray",
+            "color_name": "Exterior: Gray - Interior: Gray",
+            "color_name_urlified": "exterior-gray-interior-gray"
+        }, {
+            "exterior": "Red",
+            "interior": "Beige",
+            "color_name": "Exterior: Red - Interior: Beige",
+            "color_name_urlified": "exterior-red-interior-beige"
+        }, {
+            "exterior": "Red",
+            "interior": "Black",
+            "color_name": "Exterior: Red - Interior: Black",
+            "color_name_urlified": "exterior-red-interior-black"
+        }, {
+            "exterior": "Red",
+            "interior": "Brown",
+            "color_name": "Exterior: Red - Interior: Brown",
+            "color_name_urlified": "exterior-red-interior-brown"
+        }, {
+            "exterior": "Red",
+            "interior": "Gray",
+            "color_name": "Exterior: Red - Interior: Gray",
+            "color_name_urlified": "exterior-red-interior-gray"
+        }, {
+            "exterior": "Silver",
+            "interior": "Beige",
+            "color_name": "Exterior: Silver - Interior: Beige",
+            "color_name_urlified": "exterior-silver-interior-beige"
+        }, {
+            "exterior": "Silver",
+            "interior": "Black",
+            "color_name": "Exterior: Silver - Interior: Black",
+            "color_name_urlified": "exterior-silver-interior-black"
+        }, {
+            "exterior": "Silver",
+            "interior": "Brown",
+            "color_name": "Exterior: Silver - Interior: Brown",
+            "color_name_urlified": "exterior-silver-interior-brown"
+        }, {
+            "exterior": "Silver",
+            "interior": "Gray",
+            "color_name": "Exterior: Silver - Interior: Gray",
+            "color_name_urlified": "exterior-silver-interior-gray"
+        }, {
+            "exterior": "White",
+            "interior": "Beige",
+            "color_name": "Exterior: White - Interior: Beige",
+            "color_name_urlified": "exterior-white-interior-beige"
+        }, {
+            "exterior": "White",
+            "interior": "Black",
+            "color_name": "Exterior: White - Interior: Black",
+            "color_name_urlified": "exterior-white-interior-black"
+        }, {
+            "exterior": "White",
+            "interior": "Brown",
+            "color_name": "Exterior: White - Interior: Brown",
+            "color_name_urlified": "exterior-white-interior-brown"
+        }, {
+            "exterior": "White",
+            "interior": "Gray",
+            "color_name": "Exterior: White - Interior: Gray",
+            "color_name_urlified": "exterior-white-interior-gray"
+        }],
+        "image": "pictures\/VEHICLE\/2014\/Audi\/Audi-A6-USC40AUC021B021001",
+        "alt": "2014 Audi A6",
+        "invoice_price": "$40,084",
+        "make_id": "2",
+        "make_name": "Audi",
+        "make_name_urlified": "audi",
+        "model_name": "A6",
+        "model_name_urlified": "a6",
+        "model_id": "572",
+        "msrp": "$43,100",
+        "style_name": "2.0T Premium 4dr Front-wheel Drive FrontTrak Sedan",
+        "style_name_urlified": "20t-premium-4dr-front-wheel-drive-fronttrak-sedan",
+        "style_id": "200013393",
+        "year": "2014",
+        "bodytype": null
+    },
+    "colors": {
+        "20t-premium-4dr-front-wheel-drive-fronttrak-sedan": [{
+            "exterior": "Black",
+            "interior": "Beige",
+            "color_name": "Exterior: Black - Interior: Beige",
+            "color_name_urlified": "exterior-black-interior-beige"
+        }, {
+            "exterior": "Black",
+            "interior": "Black",
+            "color_name": "Exterior: Black - Interior: Black",
+            "color_name_urlified": "exterior-black-interior-black"
+        }, {
+            "exterior": "Black",
+            "interior": "Brown",
+            "color_name": "Exterior: Black - Interior: Brown",
+            "color_name_urlified": "exterior-black-interior-brown"
+        }, {
+            "exterior": "Black",
+            "interior": "Gray",
+            "color_name": "Exterior: Black - Interior: Gray",
+            "color_name_urlified": "exterior-black-interior-gray"
+        }, {
+            "exterior": "Blue",
+            "interior": "Beige",
+            "color_name": "Exterior: Blue - Interior: Beige",
+            "color_name_urlified": "exterior-blue-interior-beige"
+        }, {
+            "exterior": "Blue",
+            "interior": "Black",
+            "color_name": "Exterior: Blue - Interior: Black",
+            "color_name_urlified": "exterior-blue-interior-black"
+        }, {
+            "exterior": "Blue",
+            "interior": "Brown",
+            "color_name": "Exterior: Blue - Interior: Brown",
+            "color_name_urlified": "exterior-blue-interior-brown"
+        }, {
+            "exterior": "Blue",
+            "interior": "Gray",
+            "color_name": "Exterior: Blue - Interior: Gray",
+            "color_name_urlified": "exterior-blue-interior-gray"
+        }, {
+            "exterior": "Gray",
+            "interior": "Beige",
+            "color_name": "Exterior: Gray - Interior: Beige",
+            "color_name_urlified": "exterior-gray-interior-beige"
+        }, {
+            "exterior": "Gray",
+            "interior": "Black",
+            "color_name": "Exterior: Gray - Interior: Black",
+            "color_name_urlified": "exterior-gray-interior-black"
+        }, {
+            "exterior": "Gray",
+            "interior": "Brown",
+            "color_name": "Exterior: Gray - Interior: Brown",
+            "color_name_urlified": "exterior-gray-interior-brown"
+        }, {
+            "exterior": "Gray",
+            "interior": "Gray",
+            "color_name": "Exterior: Gray - Interior: Gray",
+            "color_name_urlified": "exterior-gray-interior-gray"
+        }, {
+            "exterior": "Red",
+            "interior": "Beige",
+            "color_name": "Exterior: Red - Interior: Beige",
+            "color_name_urlified": "exterior-red-interior-beige"
+        }, {
+            "exterior": "Red",
+            "interior": "Black",
+            "color_name": "Exterior: Red - Interior: Black",
+            "color_name_urlified": "exterior-red-interior-black"
+        }, {
+            "exterior": "Red",
+            "interior": "Brown",
+            "color_name": "Exterior: Red - Interior: Brown",
+            "color_name_urlified": "exterior-red-interior-brown"
+        }, {
+            "exterior": "Red",
+            "interior": "Gray",
+            "color_name": "Exterior: Red - Interior: Gray",
+            "color_name_urlified": "exterior-red-interior-gray"
+        }, {
+            "exterior": "Silver",
+            "interior": "Beige",
+            "color_name": "Exterior: Silver - Interior: Beige",
+            "color_name_urlified": "exterior-silver-interior-beige"
+        }, {
+            "exterior": "Silver",
+            "interior": "Black",
+            "color_name": "Exterior: Silver - Interior: Black",
+            "color_name_urlified": "exterior-silver-interior-black"
+        }, {
+            "exterior": "Silver",
+            "interior": "Brown",
+            "color_name": "Exterior: Silver - Interior: Brown",
+            "color_name_urlified": "exterior-silver-interior-brown"
+        }, {
+            "exterior": "Silver",
+            "interior": "Gray",
+            "color_name": "Exterior: Silver - Interior: Gray",
+            "color_name_urlified": "exterior-silver-interior-gray"
+        }, {
+            "exterior": "White",
+            "interior": "Beige",
+            "color_name": "Exterior: White - Interior: Beige",
+            "color_name_urlified": "exterior-white-interior-beige"
+        }, {
+            "exterior": "White",
+            "interior": "Black",
+            "color_name": "Exterior: White - Interior: Black",
+            "color_name_urlified": "exterior-white-interior-black"
+        }, {
+            "exterior": "White",
+            "interior": "Brown",
+            "color_name": "Exterior: White - Interior: Brown",
+            "color_name_urlified": "exterior-white-interior-brown"
+        }, {
+            "exterior": "White",
+            "interior": "Gray",
+            "color_name": "Exterior: White - Interior: Gray",
+            "color_name_urlified": "exterior-white-interior-gray"
+        }],
+        "20t-premium-4dr-all-wheel-drive-quattro-sedan": [{
+            "exterior": "Black",
+            "interior": "Beige",
+            "color_name": "Exterior: Black - Interior: Beige",
+            "color_name_urlified": "exterior-black-interior-beige"
+        }, {
+            "exterior": "Black",
+            "interior": "Black",
+            "color_name": "Exterior: Black - Interior: Black",
+            "color_name_urlified": "exterior-black-interior-black"
+        }, {
+            "exterior": "Black",
+            "interior": "Brown",
+            "color_name": "Exterior: Black - Interior: Brown",
+            "color_name_urlified": "exterior-black-interior-brown"
+        }, {
+            "exterior": "Black",
+            "interior": "Gray",
+            "color_name": "Exterior: Black - Interior: Gray",
+            "color_name_urlified": "exterior-black-interior-gray"
+        }, {
+            "exterior": "Blue",
+            "interior": "Beige",
+            "color_name": "Exterior: Blue - Interior: Beige",
+            "color_name_urlified": "exterior-blue-interior-beige"
+        }, {
+            "exterior": "Blue",
+            "interior": "Black",
+            "color_name": "Exterior: Blue - Interior: Black",
+            "color_name_urlified": "exterior-blue-interior-black"
+        }, {
+            "exterior": "Blue",
+            "interior": "Brown",
+            "color_name": "Exterior: Blue - Interior: Brown",
+            "color_name_urlified": "exterior-blue-interior-brown"
+        }, {
+            "exterior": "Blue",
+            "interior": "Gray",
+            "color_name": "Exterior: Blue - Interior: Gray",
+            "color_name_urlified": "exterior-blue-interior-gray"
+        }, {
+            "exterior": "Gray",
+            "interior": "Beige",
+            "color_name": "Exterior: Gray - Interior: Beige",
+            "color_name_urlified": "exterior-gray-interior-beige"
+        }, {
+            "exterior": "Gray",
+            "interior": "Black",
+            "color_name": "Exterior: Gray - Interior: Black",
+            "color_name_urlified": "exterior-gray-interior-black"
+        }, {
+            "exterior": "Gray",
+            "interior": "Brown",
+            "color_name": "Exterior: Gray - Interior: Brown",
+            "color_name_urlified": "exterior-gray-interior-brown"
+        }, {
+            "exterior": "Gray",
+            "interior": "Gray",
+            "color_name": "Exterior: Gray - Interior: Gray",
+            "color_name_urlified": "exterior-gray-interior-gray"
+        }, {
+            "exterior": "Red",
+            "interior": "Beige",
+            "color_name": "Exterior: Red - Interior: Beige",
+            "color_name_urlified": "exterior-red-interior-beige"
+        }, {
+            "exterior": "Red",
+            "interior": "Black",
+            "color_name": "Exterior: Red - Interior: Black",
+            "color_name_urlified": "exterior-red-interior-black"
+        }, {
+            "exterior": "Red",
+            "interior": "Brown",
+            "color_name": "Exterior: Red - Interior: Brown",
+            "color_name_urlified": "exterior-red-interior-brown"
+        }, {
+            "exterior": "Red",
+            "interior": "Gray",
+            "color_name": "Exterior: Red - Interior: Gray",
+            "color_name_urlified": "exterior-red-interior-gray"
+        }, {
+            "exterior": "Silver",
+            "interior": "Beige",
+            "color_name": "Exterior: Silver - Interior: Beige",
+            "color_name_urlified": "exterior-silver-interior-beige"
+        }, {
+            "exterior": "Silver",
+            "interior": "Black",
+            "color_name": "Exterior: Silver - Interior: Black",
+            "color_name_urlified": "exterior-silver-interior-black"
+        }, {
+            "exterior": "Silver",
+            "interior": "Brown",
+            "color_name": "Exterior: Silver - Interior: Brown",
+            "color_name_urlified": "exterior-silver-interior-brown"
+        }, {
+            "exterior": "Silver",
+            "interior": "Gray",
+            "color_name": "Exterior: Silver - Interior: Gray",
+            "color_name_urlified": "exterior-silver-interior-gray"
+        }, {
+            "exterior": "White",
+            "interior": "Beige",
+            "color_name": "Exterior: White - Interior: Beige",
+            "color_name_urlified": "exterior-white-interior-beige"
+        }, {
+            "exterior": "White",
+            "interior": "Black",
+            "color_name": "Exterior: White - Interior: Black",
+            "color_name_urlified": "exterior-white-interior-black"
+        }, {
+            "exterior": "White",
+            "interior": "Brown",
+            "color_name": "Exterior: White - Interior: Brown",
+            "color_name_urlified": "exterior-white-interior-brown"
+        }, {
+            "exterior": "White",
+            "interior": "Gray",
+            "color_name": "Exterior: White - Interior: Gray",
+            "color_name_urlified": "exterior-white-interior-gray"
+        }],
+        "30t-premium-plus-4dr-all-wheel-drive-quattro-sedan": [{
+            "exterior": "Black",
+            "interior": "Beige",
+            "color_name": "Exterior: Black - Interior: Beige",
+            "color_name_urlified": "exterior-black-interior-beige"
+        }, {
+            "exterior": "Black",
+            "interior": "Black",
+            "color_name": "Exterior: Black - Interior: Black",
+            "color_name_urlified": "exterior-black-interior-black"
+        }, {
+            "exterior": "Black",
+            "interior": "Brown",
+            "color_name": "Exterior: Black - Interior: Brown",
+            "color_name_urlified": "exterior-black-interior-brown"
+        }, {
+            "exterior": "Black",
+            "interior": "Gray",
+            "color_name": "Exterior: Black - Interior: Gray",
+            "color_name_urlified": "exterior-black-interior-gray"
+        }, {
+            "exterior": "Blue",
+            "interior": "Beige",
+            "color_name": "Exterior: Blue - Interior: Beige",
+            "color_name_urlified": "exterior-blue-interior-beige"
+        }, {
+            "exterior": "Blue",
+            "interior": "Black",
+            "color_name": "Exterior: Blue - Interior: Black",
+            "color_name_urlified": "exterior-blue-interior-black"
+        }, {
+            "exterior": "Blue",
+            "interior": "Brown",
+            "color_name": "Exterior: Blue - Interior: Brown",
+            "color_name_urlified": "exterior-blue-interior-brown"
+        }, {
+            "exterior": "Blue",
+            "interior": "Gray",
+            "color_name": "Exterior: Blue - Interior: Gray",
+            "color_name_urlified": "exterior-blue-interior-gray"
+        }, {
+            "exterior": "Gray",
+            "interior": "Beige",
+            "color_name": "Exterior: Gray - Interior: Beige",
+            "color_name_urlified": "exterior-gray-interior-beige"
+        }, {
+            "exterior": "Gray",
+            "interior": "Black",
+            "color_name": "Exterior: Gray - Interior: Black",
+            "color_name_urlified": "exterior-gray-interior-black"
+        }, {
+            "exterior": "Gray",
+            "interior": "Brown",
+            "color_name": "Exterior: Gray - Interior: Brown",
+            "color_name_urlified": "exterior-gray-interior-brown"
+        }, {
+            "exterior": "Gray",
+            "interior": "Gray",
+            "color_name": "Exterior: Gray - Interior: Gray",
+            "color_name_urlified": "exterior-gray-interior-gray"
+        }, {
+            "exterior": "Red",
+            "interior": "Beige",
+            "color_name": "Exterior: Red - Interior: Beige",
+            "color_name_urlified": "exterior-red-interior-beige"
+        }, {
+            "exterior": "Red",
+            "interior": "Black",
+            "color_name": "Exterior: Red - Interior: Black",
+            "color_name_urlified": "exterior-red-interior-black"
+        }, {
+            "exterior": "Red",
+            "interior": "Brown",
+            "color_name": "Exterior: Red - Interior: Brown",
+            "color_name_urlified": "exterior-red-interior-brown"
+        }, {
+            "exterior": "Red",
+            "interior": "Gray",
+            "color_name": "Exterior: Red - Interior: Gray",
+            "color_name_urlified": "exterior-red-interior-gray"
+        }, {
+            "exterior": "Silver",
+            "interior": "Beige",
+            "color_name": "Exterior: Silver - Interior: Beige",
+            "color_name_urlified": "exterior-silver-interior-beige"
+        }, {
+            "exterior": "Silver",
+            "interior": "Black",
+            "color_name": "Exterior: Silver - Interior: Black",
+            "color_name_urlified": "exterior-silver-interior-black"
+        }, {
+            "exterior": "Silver",
+            "interior": "Brown",
+            "color_name": "Exterior: Silver - Interior: Brown",
+            "color_name_urlified": "exterior-silver-interior-brown"
+        }, {
+            "exterior": "Silver",
+            "interior": "Gray",
+            "color_name": "Exterior: Silver - Interior: Gray",
+            "color_name_urlified": "exterior-silver-interior-gray"
+        }, {
+            "exterior": "White",
+            "interior": "Beige",
+            "color_name": "Exterior: White - Interior: Beige",
+            "color_name_urlified": "exterior-white-interior-beige"
+        }, {
+            "exterior": "White",
+            "interior": "Black",
+            "color_name": "Exterior: White - Interior: Black",
+            "color_name_urlified": "exterior-white-interior-black"
+        }, {
+            "exterior": "White",
+            "interior": "Brown",
+            "color_name": "Exterior: White - Interior: Brown",
+            "color_name_urlified": "exterior-white-interior-brown"
+        }, {
+            "exterior": "White",
+            "interior": "Gray",
+            "color_name": "Exterior: White - Interior: Gray",
+            "color_name_urlified": "exterior-white-interior-gray"
+        }],
+        "30-tdi-premium-plus-4dr-all-wheel-drive-quattro-sedan": [{
+            "exterior": "Black",
+            "interior": "Beige",
+            "color_name": "Exterior: Black - Interior: Beige",
+            "color_name_urlified": "exterior-black-interior-beige"
+        }, {
+            "exterior": "Black",
+            "interior": "Black",
+            "color_name": "Exterior: Black - Interior: Black",
+            "color_name_urlified": "exterior-black-interior-black"
+        }, {
+            "exterior": "Black",
+            "interior": "Brown",
+            "color_name": "Exterior: Black - Interior: Brown",
+            "color_name_urlified": "exterior-black-interior-brown"
+        }, {
+            "exterior": "Black",
+            "interior": "Gray",
+            "color_name": "Exterior: Black - Interior: Gray",
+            "color_name_urlified": "exterior-black-interior-gray"
+        }, {
+            "exterior": "Blue",
+            "interior": "Beige",
+            "color_name": "Exterior: Blue - Interior: Beige",
+            "color_name_urlified": "exterior-blue-interior-beige"
+        }, {
+            "exterior": "Blue",
+            "interior": "Black",
+            "color_name": "Exterior: Blue - Interior: Black",
+            "color_name_urlified": "exterior-blue-interior-black"
+        }, {
+            "exterior": "Blue",
+            "interior": "Brown",
+            "color_name": "Exterior: Blue - Interior: Brown",
+            "color_name_urlified": "exterior-blue-interior-brown"
+        }, {
+            "exterior": "Blue",
+            "interior": "Gray",
+            "color_name": "Exterior: Blue - Interior: Gray",
+            "color_name_urlified": "exterior-blue-interior-gray"
+        }, {
+            "exterior": "Gray",
+            "interior": "Beige",
+            "color_name": "Exterior: Gray - Interior: Beige",
+            "color_name_urlified": "exterior-gray-interior-beige"
+        }, {
+            "exterior": "Gray",
+            "interior": "Black",
+            "color_name": "Exterior: Gray - Interior: Black",
+            "color_name_urlified": "exterior-gray-interior-black"
+        }, {
+            "exterior": "Gray",
+            "interior": "Brown",
+            "color_name": "Exterior: Gray - Interior: Brown",
+            "color_name_urlified": "exterior-gray-interior-brown"
+        }, {
+            "exterior": "Gray",
+            "interior": "Gray",
+            "color_name": "Exterior: Gray - Interior: Gray",
+            "color_name_urlified": "exterior-gray-interior-gray"
+        }, {
+            "exterior": "Red",
+            "interior": "Beige",
+            "color_name": "Exterior: Red - Interior: Beige",
+            "color_name_urlified": "exterior-red-interior-beige"
+        }, {
+            "exterior": "Red",
+            "interior": "Black",
+            "color_name": "Exterior: Red - Interior: Black",
+            "color_name_urlified": "exterior-red-interior-black"
+        }, {
+            "exterior": "Red",
+            "interior": "Brown",
+            "color_name": "Exterior: Red - Interior: Brown",
+            "color_name_urlified": "exterior-red-interior-brown"
+        }, {
+            "exterior": "Red",
+            "interior": "Gray",
+            "color_name": "Exterior: Red - Interior: Gray",
+            "color_name_urlified": "exterior-red-interior-gray"
+        }, {
+            "exterior": "Silver",
+            "interior": "Beige",
+            "color_name": "Exterior: Silver - Interior: Beige",
+            "color_name_urlified": "exterior-silver-interior-beige"
+        }, {
+            "exterior": "Silver",
+            "interior": "Black",
+            "color_name": "Exterior: Silver - Interior: Black",
+            "color_name_urlified": "exterior-silver-interior-black"
+        }, {
+            "exterior": "Silver",
+            "interior": "Brown",
+            "color_name": "Exterior: Silver - Interior: Brown",
+            "color_name_urlified": "exterior-silver-interior-brown"
+        }, {
+            "exterior": "Silver",
+            "interior": "Gray",
+            "color_name": "Exterior: Silver - Interior: Gray",
+            "color_name_urlified": "exterior-silver-interior-gray"
+        }, {
+            "exterior": "White",
+            "interior": "Beige",
+            "color_name": "Exterior: White - Interior: Beige",
+            "color_name_urlified": "exterior-white-interior-beige"
+        }, {
+            "exterior": "White",
+            "interior": "Black",
+            "color_name": "Exterior: White - Interior: Black",
+            "color_name_urlified": "exterior-white-interior-black"
+        }, {
+            "exterior": "White",
+            "interior": "Brown",
+            "color_name": "Exterior: White - Interior: Brown",
+            "color_name_urlified": "exterior-white-interior-brown"
+        }, {
+            "exterior": "White",
+            "interior": "Gray",
+            "color_name": "Exterior: White - Interior: Gray",
+            "color_name_urlified": "exterior-white-interior-gray"
+        }]
+    },
+    "dealer_metadata": {
+        "total_count": 4,
+        "nlp_count": 1,
+        "wholesale_count": 3,
+        "selected_count": 1,
+        "max_selectable": 3,
+        "select_all": false
+    },
+                "dealers": [{
+                "id": "NLP_40327",
+                "type": "NLP",
+                "name": "Audi of Downtown LA",
+                "address": "1900 S. Figueroa St.",
+                "city": "Los Angeles",
+                "state": "CA",
+                "zip": "90007",
+                "contact_name": "Internet Sales Manager",
+                "phone": "213-745-7200",
+                "distance": "10",
+                "dealer_chat_id": "0",
+                "pre_checked": "1",
+                "nlp": true,
+                "indx": 0,
+                "dealer_id": "40327",
+                "contactatonce_chat": null,
+                "dealer_map_url": "\/bmw\/car-dealers\/map\/california\/los-angeles\/beverly-hills-bmw",
+                "selected": true,
+                "show_dealer_distance": false,
+                "zipcode": "90007"
+            }, {
+                "id": "AN_182553",
+                "type": "WS",
+                "name": "Santa Monica Audi",
+                "address": "1020 Santa Monica Boulevard",
+                "city": "Santa Monica",
+                "state": "CA",
+                "zip": "90401",
+                "contact_name": "Evan Goldenberg",
+                "phone": "310-393-9922",
+                "distance": "4",
+                "dealer_chat_id": "0",
+                "pre_checked": "0",
+                "indx": 1,
+                "nlp": false,
+                "dealer_id": "182553",
+                "selected": false,
+                "show_dealer_distance": false,
+                "zipcode": "90401"
+            }, {
+                "id": "CD_162591510",
+                "type": "WS",
+                "name": "Beverly Hills Porsche",
+                "address": "1933 Pontius Ave",
+                "city": "Los Angeles",
+                "state": "CA",
+                "zip": "90025",
+                "contact_name": "",
+                "phone": "",
+                "distance": "4",
+                "dealer_chat_id": "0",
+                "pre_checked": "0",
+                "indx": 2,
+                "nlp": false,
+                "dealer_id": "162591510",
+                "selected": false,
+                "show_dealer_distance": false,
+                "zipcode": "90025"
+            }, {
+                "id": "DLX_T1_9830850d-1816-4ce1-b442-5dd84815fdcc",
+                "type": "WS",
+                "name": "DCH Audi Oxnard",
+                "address": "1521 Auto Center Drive",
+                "city": "Oxnard",
+                "state": "CA",
+                "zip": "93036",
+                "contact_name": "Patrick Murphy",
+                "phone": "Patrick Murphy",
+                "distance": "44",
+                "dealer_chat_id": "0",
+                "pre_checked": "0",
+                "indx": 3,
+                "nlp": false,
+                "dealer_id": "T1",
+                "selected": false,
+                "show_dealer_distance": false,
+                "zipcode": "93036"
+            }],
+    "errors": null,
+    "user": {
+        "name_first": "James",
+        "name_last": "Saxon",
+        "zipcode": "90292",
+        "email": "jsaxon@cars.com",
+        "phone": "310 752 5079",
+        "address": "123 SM",
+        "city": "MARINA DEL REY",
+        "state": "CA"
+    }
+}
+
+/* Conquest JSON */
+
+{
+    "car": {
+      "bodystyle": "",
+      "bodystyle_urlified": "",
+      "chrome_id": null,
+      "colors": [{
+          "exterior": "Beige",
+          "interior": "Beige",
+          "color_name": "Exterior: Beige - Interior: Beige",
+          "color_name_urlified": "exterior-beige-interior-beige"
+      }, {
+          "exterior": "Beige",
+          "interior": "Black",
+          "color_name": "Exterior: Beige - Interior: Black",
+          "color_name_urlified": "exterior-beige-interior-black"
+      }, {
+          "exterior": "Beige",
+          "interior": "Brown",
+          "color_name": "Exterior: Beige - Interior: Brown",
+          "color_name_urlified": "exterior-beige-interior-brown"
+      }, {
+          "exterior": "Beige",
+          "interior": "Red",
+          "color_name": "Exterior: Beige - Interior: Red",
+          "color_name_urlified": "exterior-beige-interior-red"
+      }, {
+          "exterior": "Black",
+          "interior": "Beige",
+          "color_name": "Exterior: Black - Interior: Beige",
+          "color_name_urlified": "exterior-black-interior-beige"
+      }, {
+          "exterior": "Black",
+          "interior": "Black",
+          "color_name": "Exterior: Black - Interior: Black",
+          "color_name_urlified": "exterior-black-interior-black"
+      }, {
+          "exterior": "Black",
+          "interior": "Brown",
+          "color_name": "Exterior: Black - Interior: Brown",
+          "color_name_urlified": "exterior-black-interior-brown"
+      }, {
+          "exterior": "Black",
+          "interior": "Red",
+          "color_name": "Exterior: Black - Interior: Red",
+          "color_name_urlified": "exterior-black-interior-red"
+      }, {
+          "exterior": "Blue",
+          "interior": "Beige",
+          "color_name": "Exterior: Blue - Interior: Beige",
+          "color_name_urlified": "exterior-blue-interior-beige"
+      }, {
+          "exterior": "Blue",
+          "interior": "Black",
+          "color_name": "Exterior: Blue - Interior: Black",
+          "color_name_urlified": "exterior-blue-interior-black"
+      }, {
+          "exterior": "Blue",
+          "interior": "Brown",
+          "color_name": "Exterior: Blue - Interior: Brown",
+          "color_name_urlified": "exterior-blue-interior-brown"
+      }, {
+          "exterior": "Blue",
+          "interior": "Red",
+          "color_name": "Exterior: Blue - Interior: Red",
+          "color_name_urlified": "exterior-blue-interior-red"
+      }, {
+          "exterior": "Brown",
+          "interior": "Beige",
+          "color_name": "Exterior: Brown - Interior: Beige",
+          "color_name_urlified": "exterior-brown-interior-beige"
+      }, {
+          "exterior": "Brown",
+          "interior": "Black",
+          "color_name": "Exterior: Brown - Interior: Black",
+          "color_name_urlified": "exterior-brown-interior-black"
+      }, {
+          "exterior": "Brown",
+          "interior": "Brown",
+          "color_name": "Exterior: Brown - Interior: Brown",
+          "color_name_urlified": "exterior-brown-interior-brown"
+      }, {
+          "exterior": "Brown",
+          "interior": "Red",
+          "color_name": "Exterior: Brown - Interior: Red",
+          "color_name_urlified": "exterior-brown-interior-red"
+      }, {
+          "exterior": "Gray",
+          "interior": "Beige",
+          "color_name": "Exterior: Gray - Interior: Beige",
+          "color_name_urlified": "exterior-gray-interior-beige"
+      }, {
+          "exterior": "Gray",
+          "interior": "Black",
+          "color_name": "Exterior: Gray - Interior: Black",
+          "color_name_urlified": "exterior-gray-interior-black"
+      }, {
+          "exterior": "Gray",
+          "interior": "Brown",
+          "color_name": "Exterior: Gray - Interior: Brown",
+          "color_name_urlified": "exterior-gray-interior-brown"
+      }, {
+          "exterior": "Gray",
+          "interior": "Red",
+          "color_name": "Exterior: Gray - Interior: Red",
+          "color_name_urlified": "exterior-gray-interior-red"
+      }, {
+          "exterior": "Red",
+          "interior": "Beige",
+          "color_name": "Exterior: Red - Interior: Beige",
+          "color_name_urlified": "exterior-red-interior-beige"
+      }, {
+          "exterior": "Red",
+          "interior": "Black",
+          "color_name": "Exterior: Red - Interior: Black",
+          "color_name_urlified": "exterior-red-interior-black"
+      }, {
+          "exterior": "Red",
+          "interior": "Brown",
+          "color_name": "Exterior: Red - Interior: Brown",
+          "color_name_urlified": "exterior-red-interior-brown"
+      }, {
+          "exterior": "Red",
+          "interior": "Red",
+          "color_name": "Exterior: Red - Interior: Red",
+          "color_name_urlified": "exterior-red-interior-red"
+      }, {
+          "exterior": "Silver",
+          "interior": "Beige",
+          "color_name": "Exterior: Silver - Interior: Beige",
+          "color_name_urlified": "exterior-silver-interior-beige"
+      }, {
+          "exterior": "Silver",
+          "interior": "Black",
+          "color_name": "Exterior: Silver - Interior: Black",
+          "color_name_urlified": "exterior-silver-interior-black"
+      }, {
+          "exterior": "Silver",
+          "interior": "Brown",
+          "color_name": "Exterior: Silver - Interior: Brown",
+          "color_name_urlified": "exterior-silver-interior-brown"
+      }, {
+          "exterior": "Silver",
+          "interior": "Red",
+          "color_name": "Exterior: Silver - Interior: Red",
+          "color_name_urlified": "exterior-silver-interior-red"
+      }, {
+          "exterior": "White",
+          "interior": "Beige",
+          "color_name": "Exterior: White - Interior: Beige",
+          "color_name_urlified": "exterior-white-interior-beige"
+      }, {
+          "exterior": "White",
+          "interior": "Black",
+          "color_name": "Exterior: White - Interior: Black",
+          "color_name_urlified": "exterior-white-interior-black"
+      }, {
+          "exterior": "White",
+          "interior": "Brown",
+          "color_name": "Exterior: White - Interior: Brown",
+          "color_name_urlified": "exterior-white-interior-brown"
+      }, {
+          "exterior": "White",
+          "interior": "Red",
+          "color_name": "Exterior: White - Interior: Red",
+          "color_name_urlified": "exterior-white-interior-red"
+      }],
+      "image": "pictures\/VEHICLE\/2014\/BMW\/BMW-328-USC40BMC054A021001",
+      "alt": "2014 BMW 328",
+      "invoice_price": "$34,315",
+      "make_id": "3",
+      "make_name": "BMW",
+      "make_name_urlified": "bmw",
+      "model_name": "328",
+      "model_name_urlified": "328",
+      "model_id": "600",
+      "msrp": "$37,300",
+      "style_name": "i 4dr Rear-wheel Drive Sedan",
+      "style_name_urlified": "i-4dr-rear-wheel-drive-sedan",
+      "style_id": "200013943",
+      "year": "2014",
+      "bodytype": ""
+    },
+    "cars": [{
+      "bodystyle": "",
+      "bodystyle_urlified": "",
+      "chrome_id": null,
+      "colors": [{
+          "exterior": "Black",
+          "interior": "Beige",
+          "color_name": "Exterior: Black - Interior: Beige",
+          "color_name_urlified": "exterior-black-interior-beige"
+      }, {
+          "exterior": "Black",
+          "interior": "Black",
+          "color_name": "Exterior: Black - Interior: Black",
+          "color_name_urlified": "exterior-black-interior-black"
+      }, {
+          "exterior": "Black",
+          "interior": "Brown",
+          "color_name": "Exterior: Black - Interior: Brown",
+          "color_name_urlified": "exterior-black-interior-brown"
+      }, {
+          "exterior": "Black",
+          "interior": "Gray",
+          "color_name": "Exterior: Black - Interior: Gray",
+          "color_name_urlified": "exterior-black-interior-gray"
+      }, {
+          "exterior": "Blue",
+          "interior": "Beige",
+          "color_name": "Exterior: Blue - Interior: Beige",
+          "color_name_urlified": "exterior-blue-interior-beige"
+      }, {
+          "exterior": "Blue",
+          "interior": "Black",
+          "color_name": "Exterior: Blue - Interior: Black",
+          "color_name_urlified": "exterior-blue-interior-black"
+      }, {
+          "exterior": "Blue",
+          "interior": "Brown",
+          "color_name": "Exterior: Blue - Interior: Brown",
+          "color_name_urlified": "exterior-blue-interior-brown"
+      }, {
+          "exterior": "Blue",
+          "interior": "Gray",
+          "color_name": "Exterior: Blue - Interior: Gray",
+          "color_name_urlified": "exterior-blue-interior-gray"
+      }, {
+          "exterior": "Gray",
+          "interior": "Beige",
+          "color_name": "Exterior: Gray - Interior: Beige",
+          "color_name_urlified": "exterior-gray-interior-beige"
+      }, {
+          "exterior": "Gray",
+          "interior": "Black",
+          "color_name": "Exterior: Gray - Interior: Black",
+          "color_name_urlified": "exterior-gray-interior-black"
+      }, {
+          "exterior": "Gray",
+          "interior": "Brown",
+          "color_name": "Exterior: Gray - Interior: Brown",
+          "color_name_urlified": "exterior-gray-interior-brown"
+      }, {
+          "exterior": "Gray",
+          "interior": "Gray",
+          "color_name": "Exterior: Gray - Interior: Gray",
+          "color_name_urlified": "exterior-gray-interior-gray"
+      }, {
+          "exterior": "Red",
+          "interior": "Beige",
+          "color_name": "Exterior: Red - Interior: Beige",
+          "color_name_urlified": "exterior-red-interior-beige"
+      }, {
+          "exterior": "Red",
+          "interior": "Black",
+          "color_name": "Exterior: Red - Interior: Black",
+          "color_name_urlified": "exterior-red-interior-black"
+      }, {
+          "exterior": "Red",
+          "interior": "Brown",
+          "color_name": "Exterior: Red - Interior: Brown",
+          "color_name_urlified": "exterior-red-interior-brown"
+      }, {
+          "exterior": "Red",
+          "interior": "Gray",
+          "color_name": "Exterior: Red - Interior: Gray",
+          "color_name_urlified": "exterior-red-interior-gray"
+      }, {
+          "exterior": "Silver",
+          "interior": "Beige",
+          "color_name": "Exterior: Silver - Interior: Beige",
+          "color_name_urlified": "exterior-silver-interior-beige"
+      }, {
+          "exterior": "Silver",
+          "interior": "Black",
+          "color_name": "Exterior: Silver - Interior: Black",
+          "color_name_urlified": "exterior-silver-interior-black"
+      }, {
+          "exterior": "Silver",
+          "interior": "Brown",
+          "color_name": "Exterior: Silver - Interior: Brown",
+          "color_name_urlified": "exterior-silver-interior-brown"
+      }, {
+          "exterior": "Silver",
+          "interior": "Gray",
+          "color_name": "Exterior: Silver - Interior: Gray",
+          "color_name_urlified": "exterior-silver-interior-gray"
+      }, {
+          "exterior": "White",
+          "interior": "Beige",
+          "color_name": "Exterior: White - Interior: Beige",
+          "color_name_urlified": "exterior-white-interior-beige"
+      }, {
+          "exterior": "White",
+          "interior": "Black",
+          "color_name": "Exterior: White - Interior: Black",
+          "color_name_urlified": "exterior-white-interior-black"
+      }, {
+          "exterior": "White",
+          "interior": "Brown",
+          "color_name": "Exterior: White - Interior: Brown",
+          "color_name_urlified": "exterior-white-interior-brown"
+      }, {
+          "exterior": "White",
+          "interior": "Gray",
+          "color_name": "Exterior: White - Interior: Gray",
+          "color_name_urlified": "exterior-white-interior-gray"
+      }],
+      "image": "pictures\/VEHICLE\/2014\/Audi\/Audi-A4-CAC40AUC012C121001",
+      "alt": "2014 Audi A4",
+      "invoice_price": "$31,434",
+      "make_id": "2",
+      "make_name": "Audi",
+      "make_name_urlified": "audi",
+      "model_name": "A4",
+      "model_name_urlified": "a4",
+      "model_id": "1130",
+      "msrp": "$33,800",
+      "style_name": "2.0T Premium 4dr Front-wheel Drive FrontTrak Sedan",
+      "style_name_urlified": "20t-premium-4dr-front-wheel-drive-fronttrak-sedan",
+      "style_id": "200013458",
+      "year": "2014",
+      "bodytype": null,
+      "styles": {
+          "default_trim": "200013458",
+          "trims": [{
+              "style_id": "200013458",
+              "style_name": "2.0T Premium 4dr Front-wheel Drive FrontTrak Sedan",
+              "msrp": "33800.000",
+              "style_name_urlified": "20t-premium-4dr-front-wheel-drive-fronttrak-sedan"
+          }, {
+              "style_id": "200013457",
+              "style_name": "2.0T Premium 4dr All-wheel Drive quattro Sedan",
+              "msrp": "34700.000",
+              "style_name_urlified": "20t-premium-4dr-all-wheel-drive-quattro-sedan"
+          }]
+      }
+    }, {
+      "bodystyle": "",
+      "bodystyle_urlified": "",
+      "chrome_id": null,
+      "colors": [{
+          "exterior": "Black",
+          "interior": "Beige",
+          "color_name": "Exterior: Black - Interior: Beige",
+          "color_name_urlified": "exterior-black-interior-beige"
+      }, {
+          "exterior": "Black",
+          "interior": "Black",
+          "color_name": "Exterior: Black - Interior: Black",
+          "color_name_urlified": "exterior-black-interior-black"
+      }, {
+          "exterior": "Black",
+          "interior": "Gray",
+          "color_name": "Exterior: Black - Interior: Gray",
+          "color_name_urlified": "exterior-black-interior-gray"
+      }, {
+          "exterior": "Black",
+          "interior": "Red",
+          "color_name": "Exterior: Black - Interior: Red",
+          "color_name_urlified": "exterior-black-interior-red"
+      }, {
+          "exterior": "Blue",
+          "interior": "Beige",
+          "color_name": "Exterior: Blue - Interior: Beige",
+          "color_name_urlified": "exterior-blue-interior-beige"
+      }, {
+          "exterior": "Blue",
+          "interior": "Black",
+          "color_name": "Exterior: Blue - Interior: Black",
+          "color_name_urlified": "exterior-blue-interior-black"
+      }, {
+          "exterior": "Blue",
+          "interior": "Gray",
+          "color_name": "Exterior: Blue - Interior: Gray",
+          "color_name_urlified": "exterior-blue-interior-gray"
+      }, {
+          "exterior": "Blue",
+          "interior": "Red",
+          "color_name": "Exterior: Blue - Interior: Red",
+          "color_name_urlified": "exterior-blue-interior-red"
+      }, {
+          "exterior": "Gray",
+          "interior": "Beige",
+          "color_name": "Exterior: Gray - Interior: Beige",
+          "color_name_urlified": "exterior-gray-interior-beige"
+      }, {
+          "exterior": "Gray",
+          "interior": "Black",
+          "color_name": "Exterior: Gray - Interior: Black",
+          "color_name_urlified": "exterior-gray-interior-black"
+      }, {
+          "exterior": "Gray",
+          "interior": "Gray",
+          "color_name": "Exterior: Gray - Interior: Gray",
+          "color_name_urlified": "exterior-gray-interior-gray"
+      }, {
+          "exterior": "Gray",
+          "interior": "Red",
+          "color_name": "Exterior: Gray - Interior: Red",
+          "color_name_urlified": "exterior-gray-interior-red"
+      }, {
+          "exterior": "Red",
+          "interior": "Beige",
+          "color_name": "Exterior: Red - Interior: Beige",
+          "color_name_urlified": "exterior-red-interior-beige"
+      }, {
+          "exterior": "Red",
+          "interior": "Black",
+          "color_name": "Exterior: Red - Interior: Black",
+          "color_name_urlified": "exterior-red-interior-black"
+      }, {
+          "exterior": "Red",
+          "interior": "Gray",
+          "color_name": "Exterior: Red - Interior: Gray",
+          "color_name_urlified": "exterior-red-interior-gray"
+      }, {
+          "exterior": "Red",
+          "interior": "Red",
+          "color_name": "Exterior: Red - Interior: Red",
+          "color_name_urlified": "exterior-red-interior-red"
+      }, {
+          "exterior": "Silver",
+          "interior": "Beige",
+          "color_name": "Exterior: Silver - Interior: Beige",
+          "color_name_urlified": "exterior-silver-interior-beige"
+      }, {
+          "exterior": "Silver",
+          "interior": "Black",
+          "color_name": "Exterior: Silver - Interior: Black",
+          "color_name_urlified": "exterior-silver-interior-black"
+      }, {
+          "exterior": "Silver",
+          "interior": "Gray",
+          "color_name": "Exterior: Silver - Interior: Gray",
+          "color_name_urlified": "exterior-silver-interior-gray"
+      }, {
+          "exterior": "Silver",
+          "interior": "Red",
+          "color_name": "Exterior: Silver - Interior: Red",
+          "color_name_urlified": "exterior-silver-interior-red"
+      }, {
+          "exterior": "White",
+          "interior": "Beige",
+          "color_name": "Exterior: White - Interior: Beige",
+          "color_name_urlified": "exterior-white-interior-beige"
+      }, {
+          "exterior": "White",
+          "interior": "Black",
+          "color_name": "Exterior: White - Interior: Black",
+          "color_name_urlified": "exterior-white-interior-black"
+      }, {
+          "exterior": "White",
+          "interior": "Gray",
+          "color_name": "Exterior: White - Interior: Gray",
+          "color_name_urlified": "exterior-white-interior-gray"
+      }, {
+          "exterior": "White",
+          "interior": "Red",
+          "color_name": "Exterior: White - Interior: Red",
+          "color_name_urlified": "exterior-white-interior-red"
+      }],
+      "image": "pictures\/VEHICLE\/2014\/Lexus\/Lexus-IS-250-CAC40LEC122A021001",
+      "alt": "2014 Lexus IS 250",
+      "invoice_price": "$33,436",
+      "make_id": "25",
+      "make_name": "Lexus",
+      "make_name_urlified": "lexus",
+      "model_name": "IS 250",
+      "model_name_urlified": "is-250",
+      "model_id": "1827",
+      "msrp": "$35,950",
+      "style_name": "Base 4dr Rear-wheel Drive Sedan",
+      "style_name_urlified": "base-4dr-rear-wheel-drive-sedan",
+      "style_id": "200013204",
+      "year": "2014",
+      "bodytype": null,
+      "styles": {
+          "default_trim": "200013204",
+          "trims": [{
+              "style_id": "200013204",
+              "style_name": "Base 4dr Rear-wheel Drive Sedan",
+              "msrp": "35950.000",
+              "style_name_urlified": "base-4dr-rear-wheel-drive-sedan"
+          }, {
+              "style_id": "200013205",
+              "style_name": "Base 4dr All-wheel Drive Sedan",
+              "msrp": "38485.000",
+              "style_name_urlified": "base-4dr-all-wheel-drive-sedan"
+          }]
+      }
+    }, {
+      "bodystyle": "",
+      "bodystyle_urlified": "",
+      "chrome_id": null,
+      "colors": [{
+          "exterior": "Black",
+          "interior": "Beige",
+          "color_name": "Exterior: Black - Interior: Beige",
+          "color_name_urlified": "exterior-black-interior-beige"
+      }, {
+          "exterior": "Black",
+          "interior": "Black",
+          "color_name": "Exterior: Black - Interior: Black",
+          "color_name_urlified": "exterior-black-interior-black"
+      }, {
+          "exterior": "Black",
+          "interior": "Gray",
+          "color_name": "Exterior: Black - Interior: Gray",
+          "color_name_urlified": "exterior-black-interior-gray"
+      }, {
+          "exterior": "Blue",
+          "interior": "Beige",
+          "color_name": "Exterior: Blue - Interior: Beige",
+          "color_name_urlified": "exterior-blue-interior-beige"
+      }, {
+          "exterior": "Blue",
+          "interior": "Black",
+          "color_name": "Exterior: Blue - Interior: Black",
+          "color_name_urlified": "exterior-blue-interior-black"
+      }, {
+          "exterior": "Blue",
+          "interior": "Gray",
+          "color_name": "Exterior: Blue - Interior: Gray",
+          "color_name_urlified": "exterior-blue-interior-gray"
+      }, {
+          "exterior": "Brown",
+          "interior": "Beige",
+          "color_name": "Exterior: Brown - Interior: Beige",
+          "color_name_urlified": "exterior-brown-interior-beige"
+      }, {
+          "exterior": "Brown",
+          "interior": "Black",
+          "color_name": "Exterior: Brown - Interior: Black",
+          "color_name_urlified": "exterior-brown-interior-black"
+      }, {
+          "exterior": "Brown",
+          "interior": "Gray",
+          "color_name": "Exterior: Brown - Interior: Gray",
+          "color_name_urlified": "exterior-brown-interior-gray"
+      }, {
+          "exterior": "Gray",
+          "interior": "Beige",
+          "color_name": "Exterior: Gray - Interior: Beige",
+          "color_name_urlified": "exterior-gray-interior-beige"
+      }, {
+          "exterior": "Gray",
+          "interior": "Black",
+          "color_name": "Exterior: Gray - Interior: Black",
+          "color_name_urlified": "exterior-gray-interior-black"
+      }, {
+          "exterior": "Gray",
+          "interior": "Gray",
+          "color_name": "Exterior: Gray - Interior: Gray",
+          "color_name_urlified": "exterior-gray-interior-gray"
+      }, {
+          "exterior": "Red",
+          "interior": "Beige",
+          "color_name": "Exterior: Red - Interior: Beige",
+          "color_name_urlified": "exterior-red-interior-beige"
+      }, {
+          "exterior": "Red",
+          "interior": "Black",
+          "color_name": "Exterior: Red - Interior: Black",
+          "color_name_urlified": "exterior-red-interior-black"
+      }, {
+          "exterior": "Red",
+          "interior": "Gray",
+          "color_name": "Exterior: Red - Interior: Gray",
+          "color_name_urlified": "exterior-red-interior-gray"
+      }, {
+          "exterior": "Silver",
+          "interior": "Beige",
+          "color_name": "Exterior: Silver - Interior: Beige",
+          "color_name_urlified": "exterior-silver-interior-beige"
+      }, {
+          "exterior": "Silver",
+          "interior": "Black",
+          "color_name": "Exterior: Silver - Interior: Black",
+          "color_name_urlified": "exterior-silver-interior-black"
+      }, {
+          "exterior": "Silver",
+          "interior": "Gray",
+          "color_name": "Exterior: Silver - Interior: Gray",
+          "color_name_urlified": "exterior-silver-interior-gray"
+      }, {
+          "exterior": "White",
+          "interior": "Beige",
+          "color_name": "Exterior: White - Interior: Beige",
+          "color_name_urlified": "exterior-white-interior-beige"
+      }, {
+          "exterior": "White",
+          "interior": "Black",
+          "color_name": "Exterior: White - Interior: Black",
+          "color_name_urlified": "exterior-white-interior-black"
+      }, {
+          "exterior": "White",
+          "interior": "Gray",
+          "color_name": "Exterior: White - Interior: Gray",
+          "color_name_urlified": "exterior-white-interior-gray"
+      }],
+      "image": "pictures\/VEHICLE\/2014\/Mercedes-Benz\/Mercedes-Benz-C-Class-USC40MBCA62A021001",
+      "alt": "2014 Mercedes-Benz C-Class",
+      "invoice_price": "$33,294",
+      "make_id": "29",
+      "make_name": "Mercedes-Benz",
+      "make_name_urlified": "mercedes-benz",
+      "model_name": "C-Class",
+      "model_name_urlified": "c-class",
+      "model_id": "582",
+      "msrp": "$35,800",
+      "style_name": "Sport C250 4dr Sedan",
+      "style_name_urlified": "sport-c250-4dr-sedan",
+      "style_id": "200014017",
+      "year": "2014",
+      "bodytype": null,
+      "styles": {
+          "default_trim": "200014017",
+          "trims": [{
+              "style_id": "200014017",
+              "style_name": "Sport C250 4dr Sedan",
+              "msrp": "35800.000",
+              "style_name_urlified": "sport-c250-4dr-sedan"
+          }, {
+              "style_id": "200014020",
+              "style_name": "Luxury C250 4dr Sedan",
+              "msrp": "36250.000",
+              "style_name_urlified": "luxury-c250-4dr-sedan"
+          }, {
+              "style_id": "200013765",
+              "style_name": "Base C250 2dr Coupe",
+              "msrp": "38200.000",
+              "style_name_urlified": "base-c250-2dr-coupe"
+          }, {
+              "style_id": "200014018",
+              "style_name": "Sport C300 4dr All-wheel Drive 4MATIC Sedan",
+              "msrp": "39400.000",
+              "style_name_urlified": "sport-c300-4dr-all-wheel-drive-4matic-sedan"
+          }, {
+              "style_id": "200014019",
+              "style_name": "Luxury C300 4dr All-wheel Drive 4MATIC Sedan",
+              "msrp": "39850.000",
+              "style_name_urlified": "luxury-c300-4dr-all-wheel-drive-4matic-sedan"
+          }, {
+              "style_id": "200014016",
+              "style_name": "Sport C350 4dr Rear-wheel Drive Sedan",
+              "msrp": "42100.000",
+              "style_name_urlified": "sport-c350-4dr-rear-wheel-drive-sedan"
+          }, {
+              "style_id": "200013766",
+              "style_name": "Sport C350 2dr Rear-wheel Drive Coupe",
+              "msrp": "43850.000",
+              "style_name_urlified": "sport-c350-2dr-rear-wheel-drive-coupe"
+          }, {
+              "style_id": "200013767",
+              "style_name": "Sport C350 2dr All-wheel Drive 4MATIC Coupe",
+              "msrp": "45850.000",
+              "style_name_urlified": "sport-c350-2dr-all-wheel-drive-4matic-coupe"
+          }, {
+              "style_id": "200014286",
+              "style_name": "Base C63 AMG 4dr Sedan",
+              "msrp": "60250.000",
+              "style_name_urlified": "base-c63-amg-4dr-sedan"
+          }, {
+              "style_id": "200013768",
+              "style_name": "Base C63 AMG 2dr Coupe",
+              "msrp": "62750.000",
+              "style_name_urlified": "base-c63-amg-2dr-coupe"
+          }]
+      }
+    }],
+    "user": {
+      "name_first": "James",
+      "name_last": "Saxon",
+      "zipcode": "90292",
+      "email": "jsaxon@cars.com",
+      "phone": "310 752 5079",
+      "address": "123 SM",
+      "city": "MARINA DEL REY",
+      "state": "CA"
+    }
+},

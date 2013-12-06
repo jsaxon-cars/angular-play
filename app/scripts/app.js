@@ -6,6 +6,7 @@ var myApp = angular.module('sillyApp', [
     'ngSanitize',
     'ngRoute',
     'ngAnimate'
+    'ui.router'
 ])
     .config(function ($routeProvider) {
         $routeProvider
@@ -36,3 +37,14 @@ var myApp = angular.module('sillyApp', [
     })
 ;
 
+/*
+I can change this to a ui-router which would allow the view in view situation.
+
+Thes states change, the url doesn't, but the views are handled .
+
+So the issue is that MainCtrl is out of scope for the header....
+
+What's another way I can render only part of the page?  Without ui-router?
+
+
+*/

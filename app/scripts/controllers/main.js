@@ -1,6 +1,7 @@
 'use strict';
 
-angular
+var myApp = 
+angular // returns an angular module.
     .module('sillyApp')
 
         .controller('MainCtrl', function ($scope, $location) {
@@ -22,14 +23,33 @@ angular
             }
             //console.log($location.path());
         })
-        .controller('SplendidCtrl', function ($scope) {
+        // This re-runs 
+        .controller('SplendidCtrl', function ($scope, $stuff) {
             $scope.splendid_count = 0;
             $scope.max_splendid_count = 2;
+            $scope.randomguy = $stuff.yes;
             $scope.shmoopy = "Why when I change a tab does it go back to zero?";
             $scope.blah = function () {
                 $scope.shmoopy = $scope.shmoopy.split("").reverse().join("");
                 $scope.splendid_count += 1;
+                $stuff.yes += 1;
             }
-        });
+        })
 
+        .factory('stuff', );
 
+// Might need to do a watch on the service or
+
+// restructure things...  easy... but with services...
+
+/* Watching things like this:
+
+$scope.$watch( 
+    // WHAT TO WATCH
+    function () { return siteDomain.domainSelected(); },   
+    // If the thing to watched changed, do this with the new value.
+    function (domain_selected) { $scope.domain_selected = domain_selected;},  
+    // DEEP INTROSPECTION
+    true 
+);
+//

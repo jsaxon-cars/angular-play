@@ -47,8 +47,8 @@ body {
 
 .animate-show.ng-hide-add, .animate-show.ng-hide-remove { display:block!important; }
 
-.animate-show.ng-hide { opacity:0; }
-.animate-show.ng-hide { opacity:1; }
+.animate-show.ng-hide { opacity:0 }
+.animate-show.ng-show { opacity:1 }
 
 /* Splendid FADE OUT END */
 

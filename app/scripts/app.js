@@ -1,56 +1,54 @@
 'use strict';
 
-var app = angular
-
-    .module('sillyApp', [
+angular.module('sillyApp', [
         'ngCookies',
         'ngResource',
         'ngSanitize',
         'ngAnimate',
-        'ui.router',
-    ])
+        'ui.router'
+])
 
-    .config(function ($stateProvider) {
-        $stateProvider
-            .state('home', {
-                templateUrl: 'views/pages/main.html'
-            })
-            .state('about', {
-                templateUrl: 'views/pages/about.html'
-            })
-            .state('contact', {
-                templateUrl: 'views/pages/contact.html'
-            });
-    })
+.config(function ($stateProvider) {
+    $stateProvider
+        .state('home', {
+            templateUrl: 'views/pages/main.html'
+        })
+        .state('about', {
+            templateUrl: 'views/pages/about.html'
+        })
+        .state('contact', {
+            templateUrl: 'views/pages/contact.html'
+        });
+})
 
-    .filter('reverse', function() {
-        return function(items) {
-            return items.slice().reverse();
-        };
-    })
+.filter('reverse', function() {
+    return function(items) {
+        return items.slice().reverse();
+    };
+})
 
-    .factory('stuff', function () { 
-        return  { 
-            yes: 9999,
-            getYes: function () { 
-                console.log("Getyes INTERNAL: " + this.yes);
-                return this.yes; 
-            }
+.factory('stuff', function () { 
+    return  { 
+        yes: 9999,
+        getYes: function () { 
+            console.log("Getyes INTERNAL: " + this.yes);
+            return this.yes; 
         }
-    })
+    }
+})
 
-    .factory('nav', function ($state) {
-        return {
-            tabs: [
-                {name:'Home', state:"home"},
-                {name:'Contact', state:"contact"},
-                {name:'About', state:"about"}
-            ],
-            start: 'home'
-        }
-    })
+.factory('nav', function ($state) {
+    return {
+        tabs: [
+            {name:'Home', state:"home"},
+            {name:'Contact', state:"contact"},
+            {name:'About', state:"about"}
+        ],
+        start: 'home'
+    }
+})
 
-    ;
+;
 // Might need to do a watch on the service or
 
 // restructure things...  easy... but with services...

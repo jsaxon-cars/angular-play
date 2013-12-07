@@ -1,6 +1,9 @@
-use strict;
+'use strict';
+	
+angular
 
-app.controller('MainCtrl', function ($scope, $state, nav, stuff) {
+	.module('sillyApp')
+	.controller('MainCtrl', function ($scope, $state, nav, stuff) {
     //console.log("MAIN CONTROLLER");
     //console.log($route.current.$$route.originalPath);
     //console.log($route.current.params);
